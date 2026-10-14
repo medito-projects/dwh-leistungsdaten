@@ -1,0 +1,2021 @@
+beleg_id,datum,region,leistungsart,betrag_eur
+B00523,25.08.2024, Bielefeld ,Arztbehandlung,59.88
+B01515,2025-10-13,dortmund,Heilmittel,45.11
+B01406,2024-09-08,Münster,Arztbehandlung,342.83
+B00531,2024-12-01,DORTMUND,Arzneimittel,503.20
+B01827,2024-12-17, Essen ,Heilmittel,139.62
+B00404,2025-10-27, Dortmund ,Krankenhaus,6160.63
+B00924,2025-04-06, Münster ,Zahnbehandlung,389.80
+B01217,08.11.2024,Köln,Zahnbehandlung,204.07
+B00142,22.10.2024,Köln,Zahnbehandlung,633.50
+B01877,2024-05-23, Bielefeld ,Krankenhaus,2469.02
+B00399,28.06.2025,Dortmund,Zahnbehandlung,43.69
+B01652,22.10.2025,DORTMUND,Zahnbehandlung,243.37
+B01666,04.10.2024,bielefeld,Arztbehandlung,353.28
+B00597,20.02.2025,köln,Arzneimittel,548.93
+B00467,30.03.2024,DORTMUND,Zahnbehandlung,258.65
+B00361,16.06.2025,DORTMUND,Arzneimittel,203.59
+B01474,05.09.2025,DORTMUND,Arzneimittel,252.55
+B01938,2025-01-05,essen,Arzneimittel,481.41
+B01476,05.12.2025,Essen,Arztbehandlung,90.75
+B01844,23.05.2024,münster,Zahnbehandlung,106.93
+B01431,11.07.2024,ESSEN,Krankenhaus,3367.21
+B01081,2025-03-03, Dortmund ,Heilmittel,226.60
+B01703,26.05.2024,Köln,Krankenhaus,7398.76
+B00450,2025-12-21,Köln,Arzneimittel,131.41
+B00146,14.05.2024, Essen ,Arzneimittel,167.56
+B01145,2024-04-20,Köln,Zahnbehandlung,66.99
+B01864,2025-11-02,bielefeld,Heilmittel,34.44
+B01219,16.05.2024,münster,Arztbehandlung,194.31
+B01329,25.05.2024,dortmund,Krankenhaus,7287.87
+B00831,10.08.2024,essen,Arzneimittel,18.69
+B00305,10.06.2024, Essen ,Krankenhaus,6446.63
+B01285,15.07.2024, Bielefeld ,Arzneimittel,179.93
+B00558,29.07.2025,MÜNSTER,Arztbehandlung,90.33
+B00859,01.03.2025,dortmund,Heilmittel,191.00
+B01226,14.07.2024, Bielefeld ,Arzneimittel,431.00
+B00125,2025-08-13,MÜNSTER,Zahnbehandlung,457.82
+B01913,2025-08-28,dortmund,Arztbehandlung,328.84
+B01846,07.01.2024, Köln ,Arzneimittel,247.74
+B01185,14.11.2025,münster,Zahnbehandlung,467.41
+B01962,2024-04-22, Essen ,Zahnbehandlung,286.60
+B00085,10.10.2024,münster,Arzneimittel,505.52
+B01691,2024-04-19,Münster,Arztbehandlung,86.04
+B00324,12.01.2025, Dortmund ,Zahnbehandlung,739.70
+B01772,08.08.2024,BIELEFELD,Arztbehandlung,116.99
+B00832,2025-04-19,Bielefeld,Zahnbehandlung,898.23
+B01662,2024-04-22,dortmund,Krankenhaus,4832.93
+B00800,07.10.2025,essen,Zahnbehandlung,464.65
+B01683,2025-10-19,KÖLN,Krankenhaus,2078.28
+B01773,2024-11-22,BIELEFELD,Arztbehandlung,70.86
+B00183,05.03.2024, Bielefeld ,Heilmittel,70.91
+B00626,2024-08-02,KÖLN,Krankenhaus,4506.84
+B00148,2025-02-21,Münster,Heilmittel,23.15
+B00378,2025-08-28, Essen ,Arztbehandlung,47.86
+B01692,2024-07-25,münster,Arztbehandlung,95.40
+B01419,2025-08-08,bielefeld,Zahnbehandlung,803.18
+B01000,09.07.2024,Köln,Zahnbehandlung,339.12
+B00645,23.04.2024,Münster,Krankenhaus,6307.39
+B01653,21.01.2025,Dortmund,Krankenhaus,5747.01
+B00534,2024-05-23,Dortmund,Krankenhaus,7391.95
+B00376,19.11.2025,münster,Heilmittel,157.52
+B00635,2024-01-23,dortmund,Arzneimittel,134.60
+B00257,28.01.2024, Dortmund ,Zahnbehandlung,799.63
+B01516,2024-10-10,Bielefeld,Krankenhaus,3897.37
+B01624,18.05.2025,bielefeld,Zahnbehandlung,190.81
+B00295,2025-02-23,münster,Heilmittel,114.48
+B00325,2025-12-05, Köln ,Heilmittel,90.77
+B01587,22.08.2024,dortmund,Heilmittel,236.59
+B00375,2024-10-23,köln,Krankenhaus,1949.11
+B01896,11.01.2025,münster,Krankenhaus,8156.60
+B00437,2025-07-03,DORTMUND,Arztbehandlung,288.11
+B00936,26.02.2024,DORTMUND,Krankenhaus,2315.69
+B01092,2024-09-01,ESSEN,Arzneimittel,588.94
+B00201,01.10.2025,essen,Krankenhaus,1834.77
+B01786,2024-05-22, Bielefeld ,Krankenhaus,7568.74
+B00995,11.07.2024, Bielefeld ,Arzneimittel,290.17
+B01246,2025-08-22,Köln,Heilmittel,224.91
+B00937,09.09.2025,Bielefeld,Krankenhaus,6269.37
+B00648,24.11.2025,Essen,Arztbehandlung,160.08
+B00933,06.01.2024,MÜNSTER,Zahnbehandlung,502.85
+B01650,22.01.2024,MÜNSTER,Arzneimittel,392.06
+B01677,2024-05-21, Münster ,Arzneimittel,42.96
+B00796,18.12.2025, Bielefeld ,Zahnbehandlung,213.16
+B00119,10.05.2025,köln,Arzneimittel,137.67
+B00904,2025-09-19,ESSEN,Heilmittel,240.94
+B01715,10.02.2025, Münster ,Krankenhaus,8323.17
+B01668,2025-05-04, Dortmund ,Zahnbehandlung,418.62
+B01253,2024-02-26, Köln ,Arztbehandlung,146.19
+B00554,2024-11-27,DORTMUND,Arzneimittel,552.08
+B01836,29.04.2025, Münster ,Arztbehandlung,107.07
+B01615,2025-12-24,KÖLN,Zahnbehandlung,202.62
+B00961,10.05.2025,BIELEFELD,Arzneimittel,210.67
+B01649,2024-06-29, Köln ,Zahnbehandlung,190.97
+B00540,2025-04-01,DORTMUND,Arzneimittel,172.24
+B01083,2024-03-26,ESSEN,Zahnbehandlung,460.90
+B01503,2025-11-28,BIELEFELD,Heilmittel,124.76
+B01895,2025-07-16, Dortmund ,Zahnbehandlung,640.16
+B01152,01.05.2025,KÖLN,Heilmittel,215.80
+B01919,2025-09-14,dortmund,Arztbehandlung,318.41
+B00099,2024-09-10,DORTMUND,Krankenhaus,6984.71
+B00930,22.02.2024,bielefeld,Arzneimittel,463.80
+B01277,05.06.2024, Essen ,Krankenhaus,1754.96
+B00422,2024-03-27,KÖLN,Arztbehandlung,180.18
+B00795,17.12.2024, Münster ,Zahnbehandlung,863.92
+B01409,2025-11-07, Köln ,Arztbehandlung,328.56
+B01033,24.07.2024, Münster ,Krankenhaus,4832.12
+B01882,2024-08-24,köln,Krankenhaus,1767.01
+B01128,2025-12-05,Dortmund,Zahnbehandlung,186.05
+B01414,2025-09-21, Münster ,Zahnbehandlung,-718.17
+B00725,14.08.2024,bielefeld,Arztbehandlung,117.32
+B00509,06.03.2024,Köln,Zahnbehandlung,266.62
+B00408,17.03.2024,Köln,Arztbehandlung,42.46
+B01565,2024-02-05,dortmund,Heilmittel,79.05
+B01760,2024-01-31,KÖLN,Krankenhaus,2381.33
+B01257,2025-01-11, Essen ,Arztbehandlung,274.57
+B01090,2025-09-25,bielefeld,Zahnbehandlung,348.06
+B01911,2025-01-23,Essen,Krankenhaus,2640.48
+B01212,13.06.2024, Bielefeld ,Arzneimittel,185.48
+B00246,19.01.2024,BIELEFELD,Zahnbehandlung,472.38
+B01178,14.03.2025, Bielefeld ,Arztbehandlung,167.72
+B01589,2024-02-28, Bielefeld ,Krankenhaus,2153.93
+B01470,08.07.2025,Essen,Heilmittel,67.64
+B00606,2025-02-23, Dortmund ,Arzneimittel,168.76
+B01168,2025-09-30, Dortmund ,Arzneimittel,188.62
+B00140,2025-05-18,essen,Heilmittel,120.25
+B01739,2025-04-25, Bielefeld ,Krankenhaus,2403.59
+B01335,16.02.2024,Bielefeld,Zahnbehandlung,324.93
+B00055,2024-09-14, Dortmund ,Arztbehandlung,214.53
+B00298,2024-11-26,bielefeld,Arztbehandlung,86.75
+B01816,2025-04-30,ESSEN,Heilmittel,100.99
+B01317,09.04.2025,MÜNSTER,Heilmittel,189.48
+B00479,2025-08-14, Köln ,Arztbehandlung,151.66
+B01225,21.03.2025,Essen,Krankenhaus,6692.38
+B01537,28.04.2024,münster,Heilmittel,235.56
+B00088,2025-12-24, Dortmund ,Zahnbehandlung,633.74
+B01590,2025-03-10, Essen ,Krankenhaus,8689.76
+B00040,2025-05-07,Essen,Arzneimittel,249.78
+B01509,02.08.2024,Bielefeld,Arzneimittel,168.72
+B00570,2025-07-14, Bielefeld ,Arzneimittel,441.87
+B01716,16.12.2024, Münster ,Arztbehandlung,49.18
+B01968,2025-05-11,essen,Arztbehandlung,201.29
+B01108,2025-07-29,bielefeld,Arztbehandlung,94.19
+B00121,2025-06-30,Bielefeld,Arztbehandlung,
+B01955,2024-07-01,DORTMUND,Zahnbehandlung,307.16
+B00984,2024-06-26, Köln ,Heilmittel,179.65
+B01592,08.01.2024,köln,Heilmittel,63.74
+B00637,2025-11-08,Dortmund,Heilmittel,248.78
+B00031,2024-03-13,Münster,Heilmittel,70.65
+B00003,2024-08-11,Köln,Krankenhaus,1044.34
+B01765,21.07.2024,Essen,Arzneimittel,157.55
+B00344,2024-02-08,ESSEN,Heilmittel,189.90
+B01401,2025-04-22, Münster ,Arzneimittel,419.00
+B01690,06.01.2025,DORTMUND,Krankenhaus,1656.08
+B01142,2024-01-30,MÜNSTER,Arzneimittel,428.84
+B00942,2024-08-02,Dortmund,Heilmittel,68.26
+B00150,01.03.2025,ESSEN,Heilmittel,182.24
+B00423,02.10.2024, Bielefeld ,Zahnbehandlung,177.47
+B00240,2025-09-16,bielefeld,Zahnbehandlung,485.94
+B00513,2024-06-02, Dortmund ,Arztbehandlung,168.62
+B01392,2024-02-15,münster,Arzneimittel,153.46
+B01696,2025-12-20, Bielefeld ,Arztbehandlung,390.19
+B01985,09.06.2024,münster,Arztbehandlung,225.80
+B01110,18.02.2025, Münster ,Krankenhaus,8347.56
+B00501,05.10.2025, Essen ,Zahnbehandlung,470.75
+B01853,2025-04-30, Köln ,Arzneimittel,130.53
+B00723,23.09.2025,KÖLN,Zahnbehandlung,422.06
+B01320,11.03.2025,Dortmund,Krankenhaus,2001.74
+B00466,2025-10-31,Bielefeld,Zahnbehandlung,119.10
+B01442,24.06.2024, Essen ,Arztbehandlung,219.45
+B00243,2024-12-07,KÖLN,Heilmittel,220.85
+B01999,2024-06-22,ESSEN,Krankenhaus,1582.19
+B00724,19.11.2024,Münster,Heilmittel,150.38
+B01490,2025-05-07, Bielefeld ,Arzneimittel,170.40
+B00124,15.09.2024,Dortmund,Arzneimittel,579.64
+B00722,2025-09-26,münster,Arzneimittel,69.03
+B01296,2024-04-23,Köln,Zahnbehandlung,867.50
+B01622,2024-07-05,Dortmund,Arztbehandlung,360.66
+B00401,2024-04-08,MÜNSTER,Arzneimittel,73.14
+B00304,02.12.2025, Bielefeld ,Arzneimittel,484.77
+B00153,01.11.2024, Münster ,Krankenhaus,3119.28
+B01621,14.10.2024,ESSEN,Krankenhaus,3007.82
+B01555,15.05.2025,KÖLN,Krankenhaus,2775.01
+B01244,2024-05-31,Bielefeld,Krankenhaus,7735.87
+B01669,2024-11-26, Münster ,Arztbehandlung,79.25
+B00143,15.09.2024, Dortmund ,Zahnbehandlung,106.61
+B01107,2024-11-20,essen,Krankenhaus,1137.44
+B00912,2025-12-04,Bielefeld,Heilmittel,73.40
+B01701,30.09.2025, Dortmund ,Arztbehandlung,134.07
+B00358,2024-08-11,Köln,Heilmittel,204.46
+B01204,16.11.2024, Köln ,Arzneimittel,363.89
+B00459,2025-01-02,ESSEN,Zahnbehandlung,568.89
+B01693,2025-08-01, Köln ,Krankenhaus,8808.64
+B01541,26.05.2025,münster,Arztbehandlung,338.96
+B00830,2025-03-24,Münster,Arztbehandlung,125.95
+B00979,16.10.2024,KÖLN,Zahnbehandlung,765.82
+B00420,2025-02-21,Dortmund,Heilmittel,147.59
+B01676,18.07.2025,MÜNSTER,Arztbehandlung,197.65
+B01318,2025-11-13,ESSEN,Arztbehandlung,137.20
+B01736,2024-04-16, Dortmund ,Krankenhaus,7408.71
+B00983,28.08.2025,essen,Arzneimittel,490.21
+B01839,2025-03-02,bielefeld,Arzneimittel,157.51
+B00705,2025-07-04,DORTMUND,Krankenhaus,2172.64
+B00815,2024-01-30,bielefeld,Heilmittel,212.86
+B00109,2024-09-08, Bielefeld ,Heilmittel,81.73
+B01697,2024-06-02, Köln ,Heilmittel,43.23
+B00877,20.03.2025,DORTMUND,Arztbehandlung,155.47
+B00555,2024-05-25,köln,Heilmittel,182.08
+B00483,04.01.2025,dortmund,Arztbehandlung,60.00
+B01756,2025-02-27,Essen,Zahnbehandlung,722.03
+B01300,2025-03-01, Münster ,Arzneimittel,269.07
+B00977,12.11.2025, Bielefeld ,Arzneimittel,422.77
+B01747,2024-05-09, Köln ,Krankenhaus,6622.20
+B01851,07.01.2024,KÖLN,Arztbehandlung,260.59
+B01679,2025-08-31,DORTMUND,Heilmittel,36.97
+B01849,2024-02-24,KÖLN,Heilmittel,175.11
+B00913,11.09.2025,BIELEFELD,Zahnbehandlung,146.66
+B00854,2025-11-05,DORTMUND,Krankenhaus,1589.30
+B01133,05.03.2025,dortmund,Krankenhaus,3035.90
+B01941,2024-08-23,KÖLN,Zahnbehandlung,714.08
+B01812,30.05.2025,BIELEFELD,Krankenhaus,1572.79
+B01850,2025-05-22,MÜNSTER,Heilmittel,190.30
+B01623,28.04.2025,Köln,Arztbehandlung,104.49
+B00139,29.10.2025,BIELEFELD,Arzneimittel,287.60
+B01620,06.06.2025,dortmund,Zahnbehandlung,446.90
+B00318,07.02.2025,bielefeld,Arzneimittel,585.30
+B00629,2025-01-17,BIELEFELD,Heilmittel,65.87
+B01993,2024-07-26, Bielefeld ,Arztbehandlung,127.77
+B01770,16.09.2024,bielefeld,Krankenhaus,8656.40
+B00976,23.09.2025, Bielefeld ,Arzneimittel,94.80
+B00680,2024-07-24,köln,Heilmittel,165.49
+B01017,2024-04-28, Münster ,Krankenhaus,6066.54
+B01222,2025-10-03, Dortmund ,Heilmittel,168.83
+B00445,2025-12-28,dortmund,Arztbehandlung,41.76
+B00452,16.05.2025, Köln ,Arztbehandlung,276.51
+B00908,2025-06-29,münster,Arztbehandlung,50.43
+B01866,22.10.2025, Essen ,Krankenhaus,8312.51
+B01518,2024-01-08,DORTMUND,Arztbehandlung,306.92
+B01355,08.05.2025,köln,Krankenhaus,8454.76
+B00051,13.01.2025, Münster ,Krankenhaus,8010.02
+B01190,2024-11-16, Essen ,Zahnbehandlung,607.21
+B00754,2025-09-21,Köln,Arzneimittel,290.76
+B00573,07.07.2025,bielefeld,Heilmittel,186.07
+B00279,2025-03-12,essen,Arztbehandlung,192.22
+B00464,2025-08-09,bielefeld,Heilmittel,137.49
+B01278,2025-08-22,münster,Krankenhaus,7850.33
+B01141,22.05.2024,köln,Arztbehandlung,284.14
+B01606,2025-03-20,BIELEFELD,Arzneimittel,92.53
+B01591,2025-11-24,Essen,Heilmittel,177.58
+B01659,15.04.2024, Dortmund ,Krankenhaus,7564.38
+B01875,2024-10-19,MÜNSTER,Zahnbehandlung,410.64
+B01610,2025-02-02,Dortmund,Zahnbehandlung,466.62
+B00882,20.02.2024,Bielefeld,Krankenhaus,4702.01
+B00130,2024-06-26,Münster,Krankenhaus,2087.87
+B01757,19.01.2025,ESSEN,Arzneimittel,415.53
+B00222,2025-03-16, Münster ,Krankenhaus,863.39
+B01436,09.09.2025,ESSEN,Arztbehandlung,238.07
+B00549,15.12.2025,Köln,Arzneimittel,359.59
+B00224,2025-04-15, Bielefeld ,Krankenhaus,4377.00
+B01224,01.04.2024,Münster,Heilmittel,79.84
+B00158,2025-04-12, Münster ,Krankenhaus,5112.80
+B00178,29.10.2024, Dortmund ,Zahnbehandlung,871.62
+B00268,10.03.2024,Münster,Krankenhaus,3728.17
+B00789,11.08.2025,ESSEN,Zahnbehandlung,811.37
+B00827,2024-10-23, Essen ,Krankenhaus,2295.74
+B01021,29.10.2025,bielefeld,Zahnbehandlung,561.12
+B00720,2025-11-18,Bielefeld,Heilmittel,36.82
+B00117,04.10.2024,BIELEFELD,Arztbehandlung,288.57
+B01966,23.12.2025,Münster,Zahnbehandlung,117.38
+B01099,2025-11-29,essen,Arztbehandlung,181.20
+B01100,2025-10-22,BIELEFELD,Zahnbehandlung,416.16
+B01684,09.02.2025,essen,Heilmittel,56.88
+B01188,10.12.2024, Dortmund ,Heilmittel,41.79
+B00594,06.11.2024, Bielefeld ,Krankenhaus,3570.50
+B00289,16.03.2024, Münster ,Krankenhaus,1912.97
+B01235,02.07.2024, Münster ,Heilmittel,29.46
+B01289,2024-07-23, Köln ,Zahnbehandlung,142.31
+B00346,2025-08-04,bielefeld,Krankenhaus,875.99
+B01917,2024-10-07,münster,Arztbehandlung,324.85
+B01037,11.11.2025,BIELEFELD,Krankenhaus,8449.73
+B01367,27.12.2025,Münster,Arztbehandlung,280.21
+B01639,2025-07-19,MÜNSTER,Arztbehandlung,290.60
+B00096,04.08.2024,bielefeld,Arztbehandlung,167.16
+B01489,11.09.2024, Bielefeld ,Zahnbehandlung,183.50
+B01995,2025-12-20,Essen,Zahnbehandlung,277.45
+B01975,2024-11-29,Essen,Zahnbehandlung,873.35
+B01266,2025-05-30, Dortmund ,Heilmittel,38.81
+B00810,2024-01-24,münster,Zahnbehandlung,175.57
+B00362,06.06.2025, Dortmund ,Heilmittel,132.43
+B00280,27.12.2024,Bielefeld,Zahnbehandlung,66.85
+B00135,10.11.2024,Essen,Krankenhaus,2160.57
+B00429,24.07.2024,BIELEFELD,Heilmittel,237.87
+B00675,22.08.2025,KÖLN,Heilmittel,235.12
+B00232,31.07.2025,köln,Zahnbehandlung,433.64
+B00694,2024-09-18, Bielefeld ,Arzneimittel,104.95
+B01111,13.07.2025, Bielefeld ,Arztbehandlung,83.52
+B01638,21.06.2025,BIELEFELD,Heilmittel,182.78
+B01056,2024-10-07,ESSEN,Arztbehandlung,48.71
+B01790,2024-05-02,BIELEFELD,Arzneimittel,354.24
+B01356,2025-10-09,köln,Zahnbehandlung,899.34
+B01238,16.03.2025,bielefeld,Arztbehandlung,305.43
+B00352,07.01.2024,ESSEN,Arztbehandlung,375.93
+B00612,24.09.2024,MÜNSTER,Arztbehandlung,348.06
+B01897,2024-08-31,Dortmund,Zahnbehandlung,828.72
+B00122,2025-12-15,Essen,Krankenhaus,5337.54
+B00791,03.02.2024,ESSEN,Zahnbehandlung,847.50
+B00656,2025-03-27,dortmund,Krankenhaus,8078.27
+B00898,2024-07-09, Köln ,Heilmittel,142.26
+B00858,22.03.2024,dortmund,Zahnbehandlung,837.71
+B00507,16.06.2024,bielefeld,Arzneimittel,423.88
+B00688,13.12.2025, Dortmund ,Arzneimittel,311.44
+B00198,05.11.2025,Essen,Heilmittel,29.97
+B01601,2024-12-24,essen,Arztbehandlung,65.19
+B00792,16.12.2025,Bielefeld,Zahnbehandlung,879.56
+B01861,04.02.2024,dortmund,Krankenhaus,5560.41
+B01151,2025-07-04,DORTMUND,Arzneimittel,541.98
+B01338,2024-01-20,KÖLN,Zahnbehandlung,467.30
+B00962,2025-06-12,Münster,Krankenhaus,7541.54
+B00907,2025-03-16,KÖLN,Heilmittel,229.20
+B01915,01.07.2025,essen,Arztbehandlung,346.94
+B01159,21.11.2025, Dortmund ,Arztbehandlung,92.24
+B00493,10.09.2024,DORTMUND,Arztbehandlung,321.65
+B01821,2025-06-15, Münster ,Krankenhaus,3013.49
+B00503,2024-07-27,köln,Arztbehandlung,54.63
+B00660,2025-05-22, Dortmund ,Heilmittel,215.23
+B00169,02.11.2024, Bielefeld ,Arztbehandlung,395.37
+B01517,2025-05-11,Dortmund,Heilmittel,
+B01194,02.12.2025, Essen ,Arzneimittel,151.82
+B00129,2024-04-11,münster,Heilmittel,240.83
+B01596,2025-01-17,BIELEFELD,Zahnbehandlung,359.81
+B00885,16.03.2025,Köln,Arzneimittel,52.27
+B00054,2024-10-15,BIELEFELD,Heilmittel,55.75
+B01978,2024-10-01,Essen,Arzneimittel,27.09
+B01550,28.03.2025,BIELEFELD,Arzneimittel,350.52
+B00397,2024-08-24,Münster,Arzneimittel,507.10
+B01322,22.06.2025, Köln ,Krankenhaus,3828.21
+B00043,2024-02-29,Bielefeld,Arztbehandlung,106.64
+B00993,2024-02-01, Essen ,Krankenhaus,7862.23
+B00990,26.11.2025,essen,Arztbehandlung,137.40
+B00929,2024-12-09,MÜNSTER,Krankenhaus,7099.73
+B01759,2025-09-20,münster,Arztbehandlung,206.47
+B00113,2024-03-28, Essen ,Heilmittel,238.05
+B01552,2025-03-13,Dortmund,Arzneimittel,232.17
+B00840,2025-08-21,ESSEN,Arzneimittel,478.69
+B01800,2024-04-19,Münster,Arzneimittel,281.96
+B01153,2024-04-19, Bielefeld ,Zahnbehandlung,615.97
+B00473,10.09.2024,ESSEN,Arzneimittel,429.72
+B01644,2025-10-02,BIELEFELD,Arztbehandlung,394.47
+B00778,29.04.2024,köln,Heilmittel,87.68
+B00750,2025-08-19,köln,Zahnbehandlung,552.73
+B00755,2024-05-13, Essen ,Krankenhaus,4754.38
+B01233,2025-09-04,dortmund,Heilmittel,236.04
+B01426,03.12.2024,bielefeld,Arztbehandlung,98.74
+B01806,15.06.2025,Dortmund,Heilmittel,159.71
+B01563,2025-12-12, Dortmund ,Arzneimittel,518.58
+B01745,14.08.2025, Münster ,Krankenhaus,7370.92
+B01871,27.06.2024,Essen,Krankenhaus,8178.31
+B00914,2024-05-20,MÜNSTER,Zahnbehandlung,457.56
+B01478,2024-01-14,Dortmund,Heilmittel,155.12
+B00803,03.01.2025,Bielefeld,Arztbehandlung,122.41
+B01430,12.06.2025,essen,Arzneimittel,289.92
+B01380,25.01.2024,BIELEFELD,Krankenhaus,4735.72
+B00632,24.10.2024,köln,Krankenhaus,3245.26
+B00226,2024-11-28, Köln ,Zahnbehandlung,48.15
+B00275,13.02.2025,essen,Arztbehandlung,188.86
+B01198,22.03.2025,DORTMUND,Zahnbehandlung,517.05
+B01311,2024-03-27,köln,Arzneimittel,529.78
+B00244,02.11.2025,Münster,Arztbehandlung,141.34
+B00470,2025-07-05,bielefeld,Heilmittel,84.65
+B01020,2024-11-19,dortmund,Zahnbehandlung,362.34
+B01665,2025-03-11,bielefeld,Heilmittel,61.71
+B01103,2024-11-09,BIELEFELD,Heilmittel,50.35
+B01154,21.08.2024,dortmund,Zahnbehandlung,216.42
+B00179,19.08.2024,köln,Krankenhaus,1954.21
+B00008,2025-01-22,köln,Heilmittel,48.71
+B01195,2024-03-06,essen,Arztbehandlung,347.57
+B00413,14.12.2024,Bielefeld,Arzneimittel,504.82
+B00087,2024-03-23,MÜNSTER,Arztbehandlung,359.89
+B00269,2024-12-06,dortmund,Heilmittel,189.09
+B00699,05.12.2024,BIELEFELD,Arzneimittel,401.37
+B00640,2024-10-03,Essen,Krankenhaus,6232.36
+B00543,26.01.2025, Essen ,Heilmittel,202.81
+B00277,21.03.2024,KÖLN,Krankenhaus,6762.07
+B00553,2025-09-20,münster,Krankenhaus,3520.22
+B00209,2025-06-03, Münster ,Arztbehandlung,63.85
+B00074,01.01.2024,BIELEFELD,Zahnbehandlung,506.71
+B01252,2025-08-05,Münster,Arztbehandlung,380.28
+B00018,2024-08-12, Köln ,Heilmittel,111.86
+B01357,2025-06-30,Bielefeld,Krankenhaus,2123.61
+B01417,2025-08-20,MÜNSTER,Heilmittel,112.22
+B01366,2025-03-31,Münster,Arztbehandlung,376.09
+B00014,2024-11-28,Münster,Heilmittel,70.51
+B01729,11.07.2024,KÖLN,Krankenhaus,2592.71
+B00672,14.07.2024, Dortmund ,Arzneimittel,279.66
+B01576,2024-10-03,Köln,Heilmittel,76.92
+B00852,05.03.2024, Münster ,Heilmittel,74.92
+B00192,2025-07-21,KÖLN,Heilmittel,67.20
+B01916,2025-04-23,Münster,Arzneimittel,576.58
+B00528,05.04.2025, Bielefeld ,Arzneimittel,72.34
+B01520,10.12.2024,bielefeld,Arztbehandlung,251.64
+B00105,08.11.2025,dortmund,Arztbehandlung,224.78
+B01868,22.12.2024,Dortmund,Heilmittel,239.69
+B00016,09.02.2025,münster,Arzneimittel,396.71
+B01088,2024-10-03,dortmund,Arztbehandlung,184.71
+B00743,2025-09-08, Münster ,Arzneimittel,102.84
+B01249,18.04.2024,Münster,Zahnbehandlung,355.00
+B00093,30.01.2024, Bielefeld ,Arztbehandlung,188.44
+B00343,2024-03-01,KÖLN,Arztbehandlung,132.03
+B00485,2024-01-02,Essen,Krankenhaus,6570.32
+B00586,30.11.2025,MÜNSTER,Krankenhaus,4271.67
+B00430,25.10.2024,KÖLN,Zahnbehandlung,872.79
+B01034,2025-03-17,Köln,Krankenhaus,1979.76
+B00089,22.04.2025,DORTMUND,Zahnbehandlung,317.87
+B00642,23.07.2024,KÖLN,Zahnbehandlung,202.82
+B00081,2025-12-05, Dortmund ,Arzneimittel,97.07
+B00886,09.03.2025,BIELEFELD,Krankenhaus,6308.33
+B00779,30.07.2025,münster,Zahnbehandlung,870.47
+B01977,10.05.2025, Köln ,Arzneimittel,466.47
+B00980,19.04.2024,Köln,Heilmittel,43.67
+B01698,08.02.2024,MÜNSTER,Zahnbehandlung,540.13
+B01694,05.04.2024,dortmund,Krankenhaus,1194.00
+B00478,04.08.2024,bielefeld,Arzneimittel,581.20
+B01458,19.05.2024, Essen ,Krankenhaus,6614.62
+B00306,2025-09-13,bielefeld,Zahnbehandlung,207.50
+B00032,2024-03-13, Bielefeld ,Krankenhaus,7849.01
+B00557,2024-05-19, Essen ,Arztbehandlung,138.16
+B00391,2025-02-27,KÖLN,Arzneimittel,228.72
+B01824,2025-01-21, Bielefeld ,Krankenhaus,2389.51
+B01727,2024-11-20,essen,Arzneimittel,304.67
+B01375,27.11.2025,essen,Zahnbehandlung,268.41
+B02000,23.09.2025,KÖLN,Krankenhaus,1958.91
+B01527,24.03.2024, Essen ,Zahnbehandlung,673.11
+B01680,2024-09-07, Dortmund ,Arztbehandlung,77.98
+B00005,2024-01-07,essen,Heilmittel,83.98
+B00589,2024-05-31,Dortmund,Krankenhaus,4198.43
+B01613,25.03.2024,MÜNSTER,Arztbehandlung,130.83
+B01702,2025-09-17, Münster ,Arzneimittel,133.20
+B00434,04.09.2024, Münster ,Arzneimittel,383.67
+B01292,2025-05-30,dortmund,Arzneimittel,113.08
+B01012,2024-09-20,DORTMUND,Heilmittel,84.62
+B00166,2025-09-26,ESSEN,Heilmittel,220.29
+B00736,2025-11-15,köln,Arztbehandlung,112.76
+B01640,2024-10-25,münster,Krankenhaus,5175.24
+B01740,22.10.2025,dortmund,Zahnbehandlung,819.95
+B00934,09.04.2025,Essen,Heilmittel,171.68
+B01651,2024-07-11,Münster,Zahnbehandlung,628.01
+B00835,2025-03-29,DORTMUND,Arzneimittel,237.03
+B01886,23.04.2024,Bielefeld,Heilmittel,180.43
+B01337,2025-09-25,KÖLN,Heilmittel,39.58
+B01830,15.06.2024,essen,Heilmittel,148.37
+B00044,2025-05-29,Dortmund,Krankenhaus,5590.26
+B00360,2025-06-01,KÖLN,Krankenhaus,7595.95
+B01737,2025-09-30,Essen,Krankenhaus,4870.52
+B01341,24.01.2024,ESSEN,Zahnbehandlung,779.92
+B00671,2024-07-19, Dortmund ,Krankenhaus,2885.17
+B00966,16.07.2024,bielefeld,Arzneimittel,199.32
+B01452,2024-02-14,münster,Zahnbehandlung,637.82
+B01798,2025-09-27,ESSEN,Zahnbehandlung,878.31
+B01854,04.05.2024, Essen ,Zahnbehandlung,78.42
+B00737,2025-04-10,dortmund,Zahnbehandlung,438.62
+B00474,04.10.2025, Essen ,Heilmittel,165.45
+B01900,2025-09-08,BIELEFELD,Krankenhaus,3375.83
+B01784,06.02.2025, Essen ,Zahnbehandlung,562.72
+B00440,2025-06-15,essen,Arztbehandlung,108.25
+B01626,26.08.2025,münster,Arztbehandlung,303.60
+B01763,04.04.2024,köln,Zahnbehandlung,203.34
+B01799,17.06.2024,Köln,Krankenhaus,3078.28
+B01208,2024-10-11, Bielefeld ,Zahnbehandlung,623.98
+B01400,13.02.2024,Münster,Arzneimittel,71.86
+B00824,23.10.2025,ESSEN,Zahnbehandlung,247.41
+B01187,31.10.2024,Münster,Arztbehandlung,124.43
+B00657,2025-11-25,Bielefeld,Arztbehandlung,29.64
+B00945,24.05.2025,MÜNSTER,Heilmittel,187.71
+B01026,2024-02-04,Köln,Arztbehandlung,119.46
+B01707,2024-05-23, Köln ,Zahnbehandlung,595.75
+B01449,03.04.2024,essen,Heilmittel,28.99
+B01981,16.02.2024, Essen ,Arzneimittel,210.51
+B01176,18.10.2024,Dortmund,Heilmittel,175.59
+B01095,25.11.2025,essen,Zahnbehandlung,647.55
+B00842,2024-09-11,Essen,Arztbehandlung,314.05
+B00098,23.02.2024,Münster,Krankenhaus,6942.00
+B01603,2025-05-14,münster,Zahnbehandlung,137.74
+B01870,02.05.2025,MÜNSTER,Zahnbehandlung,842.78
+B01207,2025-12-17, Bielefeld ,Zahnbehandlung,494.12
+B00766,2024-12-12, Münster ,Heilmittel,112.13
+B00310,12.06.2024,köln,Arzneimittel,577.98
+B00716,09.08.2025,Köln,Krankenhaus,1142.54
+B01969,2024-03-31, Dortmund ,Arzneimittel,127.16
+B00668,2024-04-26,Münster,Arztbehandlung,293.47
+B00845,22.10.2025,ESSEN,Arztbehandlung,393.13
+B00108,05.07.2025, Essen ,Heilmittel,205.89
+B01312,09.05.2024,Münster,Zahnbehandlung,660.84
+B01268,10.04.2025,köln,Arztbehandlung,142.73
+B01291,19.01.2024,bielefeld,Heilmittel,30.82
+B01997,2025-02-10,essen,Heilmittel,244.29
+B00614,29.10.2024, Essen ,Krankenhaus,6174.28
+B01894,23.02.2024,ESSEN,Krankenhaus,5330.47
+B01402,2025-01-19,ESSEN,Arztbehandlung,327.73
+B01874,2025-10-14,münster,Zahnbehandlung,358.54
+B01412,01.06.2024,Münster,Heilmittel,
+B01077,2025-09-10,KÖLN,Arzneimittel,532.98
+B01418,28.08.2024,münster,Arzneimittel,276.73
+B01080,2025-03-20,KÖLN,Arzneimittel,156.22
+B00418,06.01.2024,essen,Arztbehandlung,64.96
+B01191,2025-04-09,DORTMUND,Arztbehandlung,259.36
+B00856,19.10.2025,essen,Krankenhaus,1060.90
+B01905,28.09.2025,Bielefeld,Zahnbehandlung,643.79
+B01136,05.12.2025,dortmund,Arztbehandlung,282.04
+B00893,2024-05-24,Essen,Heilmittel,131.10
+B01378,2024-01-26,Essen,Krankenhaus,8016.81
+B00225,17.10.2025,Bielefeld,Heilmittel,113.02
+B01796,27.08.2025, Bielefeld ,Krankenhaus,3591.69
+B01578,19.08.2024,Dortmund,Arztbehandlung,79.87
+B00390,2025-04-22,essen,Heilmittel,223.05
+B00726,05.12.2024, Essen ,Arzneimittel,410.95
+B01581,18.07.2025,Köln,Heilmittel,219.04
+B01313,17.06.2025,Münster,Heilmittel,146.91
+B01116,26.03.2024, Dortmund ,Arztbehandlung,98.39
+B00127,2025-09-25, Köln ,Heilmittel,157.11
+B01906,2025-06-17,BIELEFELD,Arzneimittel,548.11
+B00141,2025-11-17,münster,Zahnbehandlung,319.98
+B00483,04.01.2025,dortmund,Arztbehandlung,60.00
+B00879,2025-07-06,BIELEFELD,Heilmittel,29.47
+B00223,27.05.2025, Dortmund ,Heilmittel,181.84
+B01857,2025-12-17, Essen ,Arzneimittel,110.76
+B01415,15.06.2025,münster,Heilmittel,106.08
+B00435,04.09.2025, Köln ,Zahnbehandlung,94.35
+B01862,14.04.2025,DORTMUND,Arzneimittel,286.07
+B01016,2025-03-26,münster,Zahnbehandlung,237.01
+B00207,29.07.2025, Dortmund ,Heilmittel,240.02
+B00693,11.02.2024,bielefeld,Heilmittel,47.45
+B00236,28.01.2025,Köln,Heilmittel,156.64
+B01413,04.06.2025,Münster,Arztbehandlung,352.32
+B00729,2025-06-03, Köln ,Krankenhaus,8115.26
+B00071,04.12.2024,dortmund,Krankenhaus,8580.77
+B00357,12.09.2025, Essen ,Zahnbehandlung,680.53
+B01325,2025-06-09, Münster ,Arzneimittel,581.14
+B00041,03.02.2025,essen,Arzneimittel,233.59
+B01728,2025-04-06,Essen,Heilmittel,186.13
+B00658,11.09.2024, Bielefeld ,Zahnbehandlung,605.69
+B01469,30.11.2024,KÖLN,Zahnbehandlung,475.88
+B01466,2024-09-01,Dortmund,Arzneimittel,231.04
+B01487,2025-07-16,Münster,Krankenhaus,2224.14
+B01098,2025-05-23,Münster,Krankenhaus,6516.07
+B01738,2024-08-04, Essen ,Arztbehandlung,344.39
+B01267,2025-02-06, Dortmund ,Arzneimittel,473.84
+B01122,01.05.2025, Dortmund ,Arzneimittel,132.59
+B01523,05.05.2024,münster,Arzneimittel,25.15
+B00469,2024-07-30,dortmund,Arzneimittel,373.53
+B00546,28.04.2025,KÖLN,Krankenhaus,7430.96
+B01567,15.06.2025, Köln ,Arztbehandlung,42.31
+B01040,02.07.2025,bielefeld,Zahnbehandlung,135.45
+B00611,2025-05-08,bielefeld,Arztbehandlung,281.65
+B00894,2024-10-17,köln,Arztbehandlung,88.87
+B01597,30.04.2024, Bielefeld ,Heilmittel,215.68
+B01722,2024-09-22,Dortmund,Heilmittel,69.24
+B00927,11.10.2025, Dortmund ,Krankenhaus,6591.06
+B00009,2025-01-05,Dortmund,Heilmittel,223.65
+B00782,2025-06-12,BIELEFELD,Zahnbehandlung,861.24
+B00916,2024-03-08, Essen ,Arzneimittel,457.09
+B00772,2025-11-01,Münster,Krankenhaus,3749.87
+B01513,2025-04-06,MÜNSTER,Heilmittel,238.15
+B00412,2024-12-20, Dortmund ,Krankenhaus,4906.50
+B01629,13.07.2025, Bielefeld ,Krankenhaus,1414.01
+B01951,2024-07-06,Münster,Zahnbehandlung,639.10
+B00541,17.07.2025,Dortmund,Arztbehandlung,212.08
+B00465,12.02.2024,KÖLN,Heilmittel,209.20
+B00348,25.04.2024, Münster ,Arztbehandlung,97.30
+B00805,20.11.2025,Essen,Arztbehandlung,158.17
+B00781,2025-10-10,münster,Arztbehandlung,50.33
+B01019,27.06.2025,dortmund,Zahnbehandlung,258.48
+B00643,2024-10-29, Dortmund ,Arztbehandlung,288.79
+B01602,2025-05-18,DORTMUND,Krankenhaus,1630.97
+B00477,14.04.2025, Dortmund ,Krankenhaus,6793.64
+B01106,2025-12-26,MÜNSTER,Arzneimittel,584.19
+B00442,2025-03-01,DORTMUND,Zahnbehandlung,120.96
+B01062,2025-05-26,bielefeld,Heilmittel,61.40
+B00196,2025-03-07, Dortmund ,Arztbehandlung,44.65
+B00617,2025-07-25,Bielefeld,Arzneimittel,505.98
+B01743,15.06.2025,BIELEFELD,Arzneimittel,476.40
+B00526,06.02.2025, Bielefeld ,Arztbehandlung,344.09
+B00994,19.02.2025,ESSEN,Arztbehandlung,291.92
+B01113,2025-05-05,Münster,Arztbehandlung,283.43
+B00116,20.07.2025,essen,Heilmittel,104.87
+B01733,12.03.2025,DORTMUND,Arztbehandlung,335.57
+B00095,18.05.2024,Münster,Krankenhaus,6070.55
+B00579,2025-04-01, Bielefeld ,Zahnbehandlung,351.38
+B00078,2024-07-22,Dortmund,Arztbehandlung,109.24
+B00890,2025-09-27,Bielefeld,Krankenhaus,2793.00
+B01254,2024-07-01,Essen,Krankenhaus,4070.64
+B01467,15.01.2024,Münster,Zahnbehandlung,54.31
+B00504,2025-10-27, Bielefeld ,Zahnbehandlung,540.20
+B01287,29.12.2025,essen,Arzneimittel,531.07
+B01371,2025-09-09,DORTMUND,Heilmittel,174.60
+B01627,2024-03-30,Münster,Arzneimittel,354.75
+B00033,07.08.2025, Münster ,Arzneimittel,328.15
+B01859,19.04.2024, Essen ,Zahnbehandlung,365.66
+B01420,27.03.2024,essen,Heilmittel,39.49
+B01657,2025-03-30,bielefeld,Zahnbehandlung,690.91
+B00813,2024-06-08,essen,Krankenhaus,2952.11
+B00525,2025-03-21,münster,Heilmittel,150.60
+B00062,2025-02-25,BIELEFELD,Arztbehandlung,318.39
+B01242,2025-03-22,Essen,Arzneimittel,426.52
+B00050,02.06.2025,münster,Krankenhaus,5208.60
+B01635,2024-03-17, Essen ,Heilmittel,220.16
+B00733,2025-09-20,KÖLN,Arzneimittel,510.31
+B01526,29.11.2024, Münster ,Krankenhaus,8750.70
+B00421,03.09.2025,Essen,Arztbehandlung,232.83
+B00917,09.09.2024,Essen,Arztbehandlung,350.04
+B00730,07.02.2024, Köln ,Heilmittel,68.93
+B01353,08.09.2024, Köln ,Heilmittel,246.62
+B00262,15.09.2025,dortmund,Arzneimittel,333.79
+B01933,2025-09-15,bielefeld,Heilmittel,25.87
+B00204,07.04.2024,essen,Zahnbehandlung,391.91
+B00713,24.03.2025,Essen,Arztbehandlung,311.98
+B00371,2024-08-23,essen,Heilmittel,107.23
+B01394,09.09.2025,bielefeld,Arzneimittel,287.02
+B00847,26.07.2025, Köln ,Zahnbehandlung,644.76
+B01671,2025-10-31, Essen ,Arzneimittel,483.26
+B00329,04.06.2024, Münster ,Zahnbehandlung,302.91
+B00189,22.10.2025, Dortmund ,Arztbehandlung,229.17
+B00220,2025-09-05,DORTMUND,Krankenhaus,2608.25
+B00457,09.07.2024,KÖLN,Heilmittel,108.25
+B00370,24.01.2024, Essen ,Arzneimittel,502.54
+B00946,2024-01-02, Dortmund ,Arztbehandlung,392.22
+B01807,2024-08-12,Dortmund,Arzneimittel,575.79
+B01898,2025-07-03,DORTMUND,Arzneimittel,253.71
+B00023,2024-07-01,BIELEFELD,Arztbehandlung,389.46
+B01992,15.11.2024,Essen,Arzneimittel,500.57
+B00746,2024-06-13,Köln,Arzneimittel,348.36
+B00571,2025-10-31, Köln ,Krankenhaus,4336.85
+B01473,12.10.2024,Dortmund,Arzneimittel,48.95
+B01750,13.05.2024,BIELEFELD,Heilmittel,107.95
+B01125,2025-05-17,bielefeld,Zahnbehandlung,281.83
+B01483,22.08.2024,BIELEFELD,Arztbehandlung,306.46
+B00252,07.08.2025,essen,Arztbehandlung,279.37
+B00903,2025-11-03, Dortmund ,Arztbehandlung,361.44
+B01507,29.06.2025,köln,Arztbehandlung,212.74
+B00576,2024-07-30,Bielefeld,Arzneimittel,67.22
+B01628,2025-11-01, Münster ,Krankenhaus,5609.80
+B01609,17.07.2025,münster,Krankenhaus,4252.98
+B00788,08.05.2025,köln,Heilmittel,240.34
+B01435,2025-08-04,MÜNSTER,Arztbehandlung,245.11
+B00155,01.09.2024, Münster ,Arzneimittel,588.66
+B00156,29.04.2025,ESSEN,Krankenhaus,3409.05
+B01079,18.04.2025, Dortmund ,Arzneimittel,359.03
+B00333,2024-07-15,bielefeld,Arztbehandlung,253.78
+B01779,30.11.2024,Münster,Zahnbehandlung,178.89
+B01932,2025-01-12,BIELEFELD,Heilmittel,27.17
+B01914,2025-03-13, Dortmund ,Heilmittel,119.84
+B00114,08.12.2025, Essen ,Heilmittel,194.38
+B00292,2024-05-22,Essen,Krankenhaus,8878.09
+B00449,05.04.2025,Essen,Heilmittel,223.11
+B01689,24.10.2025,münster,Krankenhaus,7387.38
+B01947,26.06.2025,essen,Krankenhaus,1885.50
+B01393,29.10.2025,BIELEFELD,Heilmittel,120.25
+B01282,13.08.2025,Köln,Heilmittel,24.37
+B01137,14.06.2025, Bielefeld ,Arzneimittel,17.61
+B00881,2025-02-07,münster,Arzneimittel,264.84
+B00104,2024-11-04,Köln,Krankenhaus,6516.98
+B01169,08.11.2025,essen,Zahnbehandlung,205.68
+B01391,07.03.2025, Köln ,Heilmittel,78.95
+B01082,27.06.2025,Essen,Heilmittel,27.73
+B00622,28.11.2025,köln,Heilmittel,47.56
+B01545,2024-08-03,DORTMUND,Arzneimittel,498.45
+B00256,30.05.2024,DORTMUND,Zahnbehandlung,817.62
+B01988,16.10.2024,DORTMUND,Zahnbehandlung,66.79
+B01761,2024-04-27,dortmund,Arzneimittel,521.46
+B01162,2024-12-12, Köln ,Arztbehandlung,390.70
+B01574,2024-10-02,BIELEFELD,Krankenhaus,5962.46
+B01984,2025-07-20,DORTMUND,Arztbehandlung,367.09
+B00492,26.08.2025, Bielefeld ,Arzneimittel,453.94
+B00684,2024-02-24,münster,Krankenhaus,3923.14
+B01104,2024-10-22,münster,Zahnbehandlung,353.56
+B01888,2024-12-03, Münster ,Arzneimittel,130.50
+B00077,10.10.2025,DORTMUND,Arztbehandlung,218.29
+B01612,2025-09-03, Essen ,Arztbehandlung,186.12
+B01661,02.11.2025, Münster ,Zahnbehandlung,158.22
+B01611,2024-12-18,Münster,Krankenhaus,1834.21
+B00844,2024-04-19,ESSEN,Arzneimittel,
+B00633,17.05.2024,essen,Zahnbehandlung,802.54
+B01144,2024-04-24, Dortmund ,Krankenhaus,4283.40
+B01572,16.06.2024,Essen,Arztbehandlung,
+B01879,07.08.2025,köln,Arzneimittel,501.12
+B01445,11.11.2025,münster,Zahnbehandlung,741.57
+B00727,2025-05-13,Münster,Arztbehandlung,315.54
+B01618,2024-04-03, Essen ,Krankenhaus,5855.03
+B01783,20.12.2024,dortmund,Arztbehandlung,128.00
+B01360,25.11.2024, Münster ,Arztbehandlung,117.22
+B00025,06.01.2025,Münster,Zahnbehandlung,46.94
+B00383,2025-10-24,essen,Arztbehandlung,101.25
+B00986,2025-02-19,Köln,Zahnbehandlung,183.27
+B00875,2025-12-07,köln,Zahnbehandlung,748.36
+B01922,2024-02-29,bielefeld,Heilmittel,70.10
+B00214,2025-06-27, Essen ,Krankenhaus,1552.41
+B01054,25.11.2025,Bielefeld,Zahnbehandlung,323.49
+B00020,25.01.2025,köln,Heilmittel,34.61
+B01837,10.04.2024,bielefeld,Zahnbehandlung,377.23
+B01562,2025-08-21,Münster,Krankenhaus,5054.99
+B01009,2025-08-15,Köln,Krankenhaus,5960.26
+B01542,2025-12-20,köln,Arzneimittel,450.77
+B00982,08.05.2025,dortmund,Heilmittel,56.57
+B01963,20.05.2024,dortmund,Zahnbehandlung,258.86
+B00057,2025-03-13,Dortmund,Zahnbehandlung,509.96
+B00414,06.04.2025,münster,Arztbehandlung,318.83
+B01852,2024-06-05,Köln,Krankenhaus,1350.56
+B00428,2025-10-28,bielefeld,Arztbehandlung,186.48
+B00403,2025-04-15,münster,Arztbehandlung,384.74
+B01619,2025-10-10,münster,Heilmittel,90.48
+B01564,2024-05-11,Münster,Arztbehandlung,71.14
+B01817,18.01.2024,MÜNSTER,Zahnbehandlung,125.17
+B01863,2025-05-30, Bielefeld ,Arztbehandlung,212.74
+B00323,29.06.2025,köln,Heilmittel,210.51
+B01271,2024-01-14, Essen ,Krankenhaus,4038.46
+B01167,2024-01-28,essen,Krankenhaus,4884.71
+B01714,2025-04-21,DORTMUND,Zahnbehandlung,588.96
+B00149,2025-10-25,essen,Zahnbehandlung,853.94
+B01002,04.08.2025,Bielefeld,Krankenhaus,8821.51
+B00850,26.09.2024,Essen,Zahnbehandlung,287.24
+B01093,30.09.2024,Bielefeld,Arzneimittel,199.07
+B01540,05.07.2025,BIELEFELD,Krankenhaus,4041.56
+B00235,12.01.2025,Dortmund,Zahnbehandlung,62.72
+B00276,24.05.2025,köln,Arzneimittel,302.76
+B00427,06.12.2024, Bielefeld ,Krankenhaus,8580.35
+B01630,2024-06-06,MÜNSTER,Arzneimittel,324.80
+B01421,21.04.2025, Essen ,Arzneimittel,354.54
+B00486,15.06.2025,Dortmund,Arzneimittel,360.27
+B01869,2024-06-11,Dortmund,Krankenhaus,7786.66
+B01519,19.01.2025, Essen ,Heilmittel,202.11
+B01255,15.06.2024,essen,Krankenhaus,7789.24
+B01069,28.08.2024,köln,Heilmittel,46.69
+B00741,2025-09-10,KÖLN,Zahnbehandlung,719.61
+B01695,2025-05-27, Bielefeld ,Arztbehandlung,384.53
+B00176,2025-03-01,MÜNSTER,Arztbehandlung,147.52
+B00406,20.03.2025,Köln,Krankenhaus,4898.84
+B01647,2025-02-08,ESSEN,Arzneimittel,353.18
+B01182,07.03.2025, Dortmund ,Zahnbehandlung,524.20
+B01336,08.08.2025,Köln,Arzneimittel,427.25
+B01751,15.08.2024,MÜNSTER,Arzneimittel,394.99
+B00689,02.12.2025,Köln,Zahnbehandlung,392.41
+B00585,2024-06-20,MÜNSTER,Arzneimittel,569.95
+B01759,2025-09-20,münster,Arztbehandlung,206.47
+B00625,2025-10-08,Bielefeld,Krankenhaus,4798.16
+B01047,27.02.2024, Dortmund ,Krankenhaus,1103.75
+B00702,26.04.2024,bielefeld,Zahnbehandlung,826.86
+B00106,2025-05-16,essen,Krankenhaus,7766.52
+B01452,2024-02-14,münster,Zahnbehandlung,637.82
+B00544,29.05.2025,essen,Arztbehandlung,367.25
+B00328,2025-12-18,Münster,Krankenhaus,5495.08
+B00991,18.09.2025,münster,Krankenhaus,5578.36
+B01066,2024-02-14,bielefeld,Arzneimittel,104.26
+B01181,05.07.2025, Dortmund ,Arztbehandlung,88.67
+B00219,30.08.2025,köln,Arztbehandlung,279.33
+B01343,2024-04-11,BIELEFELD,Krankenhaus,1740.09
+B01348,19.05.2025,dortmund,Heilmittel,154.79
+B01753,2025-10-15, Dortmund ,Arzneimittel,380.19
+B01939,31.03.2025,Bielefeld,Krankenhaus,6483.20
+B01488,2024-11-14,MÜNSTER,Zahnbehandlung,660.74
+B00704,16.07.2024,Köln,Arztbehandlung,361.86
+B00910,14.10.2025,MÜNSTER,Zahnbehandlung,678.68
+B00928,12.06.2024, Köln ,Heilmittel,160.78
+B01286,24.08.2025, Köln ,Arzneimittel,309.51
+B00097,07.03.2025, Dortmund ,Zahnbehandlung,272.08
+B00312,06.02.2025,MÜNSTER,Zahnbehandlung,50.16
+B00987,23.01.2025,Essen,Heilmittel,197.41
+B00443,2025-04-11, Köln ,Arztbehandlung,141.96
+B00068,17.11.2024,Köln,Arztbehandlung,298.20
+B00184,08.02.2024,Essen,Krankenhaus,1946.17
+B00168,2025-11-24, Dortmund ,Zahnbehandlung,814.05
+B00508,2024-10-02,dortmund,Arzneimittel,229.40
+B01405,2024-06-27,BIELEFELD,Arzneimittel,126.72
+B01891,2024-02-12, Dortmund ,Arzneimittel,169.60
+B00836,2024-04-06, Essen ,Zahnbehandlung,669.73
+B01119,25.12.2024,Essen,Krankenhaus,3134.13
+B01241,2024-07-06,essen,Arzneimittel,42.19
+B01132,2025-12-10,BIELEFELD,Arzneimittel,198.61
+B00775,22.12.2024,BIELEFELD,Heilmittel,230.45
+B00814,17.10.2024,MÜNSTER,Arzneimittel,155.96
+B00988,2024-05-22,MÜNSTER,Krankenhaus,2584.42
+B00641,30.04.2024,Dortmund,Heilmittel,185.32
+B00926,2025-12-29,Dortmund,Arztbehandlung,284.39
+B00516,2025-02-14,essen,Heilmittel,245.73
+B00575,30.03.2024, Köln ,Arztbehandlung,26.43
+B00695,2024-11-26,köln,Arzneimittel,33.56
+B01013,05.11.2025,BIELEFELD,Heilmittel,189.96
+B01580,09.11.2024,dortmund,Arzneimittel,320.62
+B01044,09.10.2025,MÜNSTER,Zahnbehandlung,103.83
+B00545,2025-09-03,dortmund,Arzneimittel,25.38
+B00271,05.03.2024,dortmund,Arzneimittel,488.78
+B00307,13.05.2024,Köln,Arztbehandlung,390.77
+B01084,2024-09-01, Dortmund ,Arzneimittel,221.46
+B01035,2024-04-15,Dortmund,Zahnbehandlung,652.40
+B01399,09.12.2024,essen,Heilmittel,150.20
+B00495,2025-06-05,essen,Arzneimittel,315.47
+B01319,2025-08-19, Bielefeld ,Krankenhaus,3488.35
+B01943,2024-04-30, Essen ,Arztbehandlung,153.09
+B01643,16.05.2024,köln,Heilmittel,80.73
+B01604,18.01.2025, Bielefeld ,Arzneimittel,287.71
+B00505,29.03.2024, Dortmund ,Arzneimittel,44.16
+B01632,10.03.2024,Essen,Krankenhaus,8268.96
+B01480,25.05.2025,MÜNSTER,Krankenhaus,1927.95
+B01451,13.04.2025,Münster,Heilmittel,188.65
+B01820,27.12.2024, Bielefeld ,Arztbehandlung,197.03
+B00258,2025-01-30,BIELEFELD,Heilmittel,106.01
+B01840,05.10.2025,KÖLN,Krankenhaus,3238.14
+B00865,06.09.2025,bielefeld,Arzneimittel,325.00
+B01539,23.11.2024,MÜNSTER,Zahnbehandlung,882.47
+B01455,2024-09-15,Köln,Zahnbehandlung,422.31
+B01134,2024-03-19,Münster,Arztbehandlung,223.60
+B01350,2024-08-27,Bielefeld,Krankenhaus,4141.45
+B01700,13.06.2024,ESSEN,Arzneimittel,463.61
+B00659,2025-07-25,DORTMUND,Arzneimittel,
+B00920,2025-06-12,münster,Krankenhaus,5373.15
+B01884,10.06.2024,DORTMUND,Krankenhaus,7954.03
+B00738,17.06.2025,BIELEFELD,Krankenhaus,6570.64
+B01706,16.04.2025,essen,Arzneimittel,429.29
+B01236,2024-05-15, Bielefeld ,Arztbehandlung,354.21
+B00843,2025-10-02,dortmund,Heilmittel,97.84
+B00010,2024-03-22, Dortmund ,Arzneimittel,466.11
+B01903,10.01.2025,münster,Zahnbehandlung,650.43
+B01328,18.01.2025, Bielefeld ,Krankenhaus,3846.03
+B01504,2025-11-09,Dortmund,Heilmittel,153.02
+B00613,28.02.2024,BIELEFELD,Heilmittel,196.06
+B01491,27.03.2025, Köln ,Zahnbehandlung,175.96
+B00604,2025-12-06,Bielefeld,Arztbehandlung,305.86
+B01976,2024-11-22, Bielefeld ,Arzneimittel,284.19
+B01310,29.07.2024, Bielefeld ,Zahnbehandlung,418.18
+B00203,21.08.2024, Bielefeld ,Zahnbehandlung,422.85
+B00488,2024-04-14,bielefeld,Arzneimittel,236.01
+B00086,2024-10-19,bielefeld,Zahnbehandlung,97.41
+B01210,12.11.2024,DORTMUND,Arztbehandlung,232.27
+B00120,2024-10-30,BIELEFELD,Krankenhaus,7627.55
+B00490,26.03.2025,MÜNSTER,Heilmittel,169.50
+B01730,2024-12-22,Münster,Heilmittel,106.84
+B01908,22.01.2024,dortmund,Zahnbehandlung,859.15
+B00992,2025-07-16,dortmund,Krankenhaus,3827.63
+B00918,24.01.2025,Essen,Heilmittel,189.13
+B01068,2024-06-29, Dortmund ,Krankenhaus,8383.86
+B00053,17.05.2024,Dortmund,Krankenhaus,8499.23
+B00801,2025-08-04,Essen,Arztbehandlung,235.80
+B00550,2025-07-31,KÖLN,Arztbehandlung,-380.33
+B01808,2024-03-08,BIELEFELD,Heilmittel,81.22
+B00476,14.05.2025,Köln,Arztbehandlung,195.51
+B00956,18.06.2024,Münster,Zahnbehandlung,575.06
+B00596,2025-03-02, Münster ,Arztbehandlung,126.03
+B01010,2025-10-01, Bielefeld ,Arztbehandlung,328.34
+B01051,21.02.2024, Dortmund ,Krankenhaus,2212.44
+B00250,2025-01-08,essen,Zahnbehandlung,68.01
+B00868,03.04.2025,Dortmund,Arztbehandlung,385.62
+B01043,02.11.2024,dortmund,Zahnbehandlung,604.84
+B01734,2024-06-30, Köln ,Zahnbehandlung,402.69
+B01352,2025-10-13,münster,Zahnbehandlung,103.00
+B01045,2025-08-30, Essen ,Krankenhaus,2383.36
+B00136,17.12.2025, Bielefeld ,Zahnbehandlung,629.15
+B00066,2024-01-29,BIELEFELD,Heilmittel,96.16
+B01163,10.03.2025,bielefeld,Krankenhaus,2709.53
+B01038,2025-08-11, Köln ,Arztbehandlung,364.23
+B00195,31.08.2024,DORTMUND,Krankenhaus,3737.59
+B01958,22.10.2024,Köln,Arzneimittel,532.36
+B01230,16.05.2024,ESSEN,Krankenhaus,884.63
+B00954,2024-11-19,münster,Heilmittel,186.74
+B00566,19.05.2025, Bielefeld ,Arzneimittel,531.89
+B00273,10.07.2025,Bielefeld,Heilmittel,111.59
+B01124,2025-08-04,MÜNSTER,Heilmittel,126.29
+B01873,2024-01-31,Bielefeld,Arztbehandlung,252.45
+B00182,27.08.2024,dortmund,Arztbehandlung,65.63
+B00468,25.08.2025, Köln ,Arzneimittel,488.31
+B01617,2024-10-07, Münster ,Arzneimittel,246.76
+B01346,2024-11-23,essen,Arztbehandlung,171.23
+B01594,2025-06-20,Münster,Arzneimittel,407.97
+B00876,13.08.2025,Dortmund,Krankenhaus,6792.47
+B00667,10.04.2025, Köln ,Krankenhaus,7496.03
+B01909,2024-11-03,dortmund,Arztbehandlung,245.59
+B01848,08.12.2025,Dortmund,Arztbehandlung,237.04
+B00758,2024-08-26, Bielefeld ,Arztbehandlung,203.93
+B01229,11.09.2024, Köln ,Arzneimittel,374.43
+B00263,2024-02-18, Essen ,Arzneimittel,187.68
+B00251,01.09.2024,ESSEN,Zahnbehandlung,233.58
+B00254,07.05.2025,Köln,Arztbehandlung,44.57
+B01584,04.08.2025,dortmund,Arzneimittel,94.18
+B00581,08.07.2025,KÖLN,Krankenhaus,6278.76
+B00458,2024-10-22,münster,Heilmittel,58.38
+B00058,2025-01-13,ESSEN,Arzneimittel,331.90
+B01506,2025-03-09,essen,Heilmittel,229.29
+B01502,2025-11-23,münster,Arztbehandlung,261.61
+B01674,18.01.2024, Köln ,Arztbehandlung,26.07
+B01514,15.07.2024, Essen ,Krankenhaus,6949.31
+B01764,22.05.2025, Köln ,Zahnbehandlung,678.32
+B01301,2024-06-24,bielefeld,Arztbehandlung,132.53
+B01232,2024-12-06,essen,Heilmittel,33.51
+B01944,12.08.2025,MÜNSTER,Heilmittel,246.15
+B01749,2024-01-12,Dortmund,Krankenhaus,1010.25
+B01754,25.05.2024,BIELEFELD,Heilmittel,48.22
+B01843,24.02.2025,Dortmund,Zahnbehandlung,435.90
+B00102,2024-04-20, Bielefeld ,Arzneimittel,579.19
+B00642,23.07.2024,KÖLN,Zahnbehandlung,202.82
+B01599,06.02.2024, Köln ,Heilmittel,209.92
+B00034,09.04.2024, Bielefeld ,Zahnbehandlung,195.66
+B00681,2024-05-15,köln,Arztbehandlung,370.45
+B01061,2025-02-25,Münster,Arztbehandlung,221.16
+B01261,2025-06-21, Bielefeld ,Heilmittel,164.80
+B00760,2025-11-01, Bielefeld ,Heilmittel,21.65
+B00973,2024-12-06,Köln,Heilmittel,101.79
+B00537,2024-12-05, Dortmund ,Krankenhaus,8221.64
+B01018,2025-05-02, Essen ,Zahnbehandlung,444.32
+B00802,17.09.2024, Dortmund ,Arzneimittel,45.42
+B01660,2024-08-17, Münster ,Arzneimittel,10.71
+B00867,2025-07-30,essen,Arztbehandlung,253.16
+B01501,2024-09-09,Essen,Zahnbehandlung,836.07
+B00861,24.08.2024,MÜNSTER,Heilmittel,42.34
+B01438,07.04.2025,DORTMUND,Arztbehandlung,238.57
+B01472,13.01.2024, Münster ,Zahnbehandlung,598.97
+B01227,2024-07-30,BIELEFELD,Zahnbehandlung,
+B00471,2025-06-10, Münster ,Arztbehandlung,239.78
+B00511,2024-04-15,Münster,Arztbehandlung,83.99
+B01912,2024-12-22,köln,Arztbehandlung,36.74
+B01114,2025-09-24,essen,Arztbehandlung,34.30
+B01156,2024-02-11, Bielefeld ,Arztbehandlung,233.92
+B01558,2025-05-15, Dortmund ,Krankenhaus,1477.62
+B00809,04.10.2024, Bielefeld ,Heilmittel,168.27
+B00747,19.06.2024, Münster ,Heilmittel,53.78
+B01410,2024-05-13, Münster ,Krankenhaus,1771.65
+B00624,2025-04-13,BIELEFELD,Zahnbehandlung,888.86
+B00285,2025-08-10,köln,Zahnbehandlung,693.88
+B00154,06.12.2024,essen,Heilmittel,131.40
+B00230,2025-10-22,Münster,Arztbehandlung,156.66
+B00212,20.12.2025,bielefeld,Krankenhaus,2279.41
+B00317,17.07.2025,Köln,Heilmittel,123.58
+B00231,2024-06-26,DORTMUND,Arzneimittel,161.02
+B01023,16.06.2025,münster,Heilmittel,197.21
+B01063,2024-08-29,Dortmund,Zahnbehandlung,33.98
+B01117,2025-09-09, Bielefeld ,Arzneimittel,299.37
+B01957,21.10.2024, Essen ,Arztbehandlung,87.10
+B00389,02.01.2025,bielefeld,Zahnbehandlung,494.28
+B00919,2025-04-12, Münster ,Heilmittel,45.14
+B01477,22.08.2025,ESSEN,Arztbehandlung,31.62
+B00180,15.01.2024,Köln,Krankenhaus,7283.59
+B01823,13.12.2025,BIELEFELD,Arzneimittel,350.77
+B01041,2025-10-24,bielefeld,Zahnbehandlung,78.02
+B00959,2024-06-28,Bielefeld,Arzneimittel,319.81
+B00174,2025-11-06,Dortmund,Heilmittel,77.64
+B00664,2025-05-24, Dortmund ,Arztbehandlung,69.52
+B00497,2025-08-31,Köln,Arzneimittel,304.75
+B00887,2025-11-02,BIELEFELD,Arztbehandlung,154.20
+B00388,19.07.2025, Bielefeld ,Zahnbehandlung,826.16
+B01561,2025-12-18, Essen ,Heilmittel,62.52
+B00536,2024-03-07,ESSEN,Krankenhaus,978.76
+B01123,16.10.2025,ESSEN,Krankenhaus,854.27
+B01841,2025-03-23, Münster ,Zahnbehandlung,710.69
+B00874,20.03.2024,ESSEN,Heilmittel,231.11
+B00602,04.09.2024, Essen ,Krankenhaus,6385.63
+B01838,26.11.2025,KÖLN,Arzneimittel,342.71
+B00660,2025-05-22, Dortmund ,Heilmittel,215.23
+B01940,19.03.2024,ESSEN,Arztbehandlung,235.17
+B00175,04.02.2024,Münster,Arztbehandlung,320.73
+B00922,2024-02-25, Essen ,Zahnbehandlung,286.15
+B01468,2024-04-08,Münster,Arzneimittel,575.66
+B00489,2024-05-16,Dortmund,Arztbehandlung,76.42
+B00416,2024-10-29,Dortmund,Krankenhaus,7131.77
+B01345,2024-11-29,Dortmund,Arzneimittel,44.76
+B01387,2025-11-06, Essen ,Arzneimittel,520.10
+B01273,2024-03-30,Münster,Zahnbehandlung,730.04
+B00521,20.01.2025,DORTMUND,Krankenhaus,7023.22
+B00739,2025-01-09,köln,Zahnbehandlung,598.70
+B00373,2024-04-13,Essen,Arzneimittel,131.59
+B01220,28.02.2025, Münster ,Arztbehandlung,99.50
+B00013,16.06.2024,essen,Heilmittel,187.70
+B00599,2025-06-20,MÜNSTER,Arzneimittel,470.50
+B01008,03.09.2025,köln,Arzneimittel,30.84
+B01193,2024-03-02, Bielefeld ,Heilmittel,187.12
+B01173,02.02.2025, Dortmund ,Zahnbehandlung,147.00
+B01135,10.07.2025,bielefeld,Heilmittel,193.10
+B01704,2024-11-17,BIELEFELD,Zahnbehandlung,111.88
+B01907,2024-05-25, Münster ,Krankenhaus,3853.60
+B00234,2024-12-26, Bielefeld ,Arztbehandlung,246.78
+B00653,2024-03-01, Dortmund ,Arzneimittel,420.74
+B01358,23.05.2024,ESSEN,Zahnbehandlung,637.63
+B00394,15.05.2025,ESSEN,Arztbehandlung,311.26
+B00880,06.02.2025,Köln,Arzneimittel,39.81
+B00300,2025-05-29,KÖLN,Heilmittel,142.70
+B01174,08.08.2025,ESSEN,Heilmittel,177.64
+B00151,2025-01-27,KÖLN,Zahnbehandlung,509.60
+B00132,16.10.2024,DORTMUND,Arzneimittel,179.98
+B00712,03.12.2025,Köln,Heilmittel,44.41
+B00825,2025-10-02,köln,Arztbehandlung,54.70
+B01971,20.09.2025,KÖLN,Zahnbehandlung,628.54
+B01396,2025-07-26,essen,Heilmittel,208.41
+B00302,18.10.2025, Münster ,Krankenhaus,1466.03
+B01525,15.10.2025,dortmund,Arzneimittel,11.85
+B00451,2024-11-29,Essen,Heilmittel,63.00
+B00999,05.06.2025, Köln ,Heilmittel,61.35
+B00487,2025-03-08,Essen,Arztbehandlung,331.42
+B01883,23.10.2024,essen,Krankenhaus,2636.97
+B01811,21.12.2024,köln,Arzneimittel,473.58
+B01200,2025-05-12,Dortmund,Krankenhaus,8703.05
+B01250,25.12.2025,essen,Krankenhaus,4573.91
+B01521,12.11.2025,Essen,Arzneimittel,565.18
+B01086,2025-02-19, Bielefeld ,Arzneimittel,525.78
+B00315,2025-01-09,Essen,Arztbehandlung,311.45
+B01042,2024-10-23,Münster,Krankenhaus,7697.69
+B01804,2025-01-13, Dortmund ,Krankenhaus,4418.99
+B01309,09.01.2024,KÖLN,Arztbehandlung,365.96
+B00578,11.07.2025,münster,Arztbehandlung,59.18
+B00380,03.11.2024, Münster ,Zahnbehandlung,385.19
+B01046,20.10.2025, Essen ,Krankenhaus,7300.46
+B01797,2024-04-18,münster,Arzneimittel,510.21
+B01781,2025-02-16,Köln,Arzneimittel,506.57
+B00296,27.11.2025,MÜNSTER,Krankenhaus,4489.79
+B01731,17.01.2024,Bielefeld,Arztbehandlung,330.17
+B01500,22.12.2024,Bielefeld,Arztbehandlung,314.23
+B01966,23.12.2025,Münster,Zahnbehandlung,117.38
+B00780,2025-08-23,Essen,Zahnbehandlung,622.99
+B00037,2025-03-08, Bielefeld ,Heilmittel,123.18
+B00609,11.08.2024, Bielefeld ,Arztbehandlung,197.12
+B00282,14.09.2025,DORTMUND,Krankenhaus,1970.79
+B01161,2025-08-27,Münster,Zahnbehandlung,378.54
+B00265,02.01.2024, Münster ,Arzneimittel,181.85
+B00717,2024-12-18,ESSEN,Arztbehandlung,103.77
+B01129,09.03.2024, Köln ,Arztbehandlung,209.89
+B01416,09.05.2025,essen,Arztbehandlung,222.05
+B01463,2025-11-22,Essen,Arzneimittel,431.50
+B00456,07.06.2025,ESSEN,Arztbehandlung,285.04
+B01440,12.03.2024,BIELEFELD,Krankenhaus,2330.88
+B01459,2025-07-15,ESSEN,Zahnbehandlung,89.37
+B00351,2024-04-07, Münster ,Krankenhaus,4086.83
+B01057,2025-03-25,Köln,Arztbehandlung,232.53
+B01067,08.12.2024,Dortmund,Arzneimittel,266.46
+B01007,07.03.2025,bielefeld,Heilmittel,188.78
+B01269,2024-07-10,Münster,Arztbehandlung,387.52
+B00152,28.02.2025,köln,Krankenhaus,3065.23
+B00676,2024-05-11,essen,Heilmittel,59.94
+B01152,01.05.2025,KÖLN,Heilmittel,215.80
+B01593,2025-11-08, Köln ,Arzneimittel,596.59
+B00431,06.02.2025,DORTMUND,Arztbehandlung,166.02
+B01498,2025-08-25,Essen,Zahnbehandlung,297.80
+B01428,17.02.2025,Köln,Arztbehandlung,333.37
+B00291,2025-12-29,BIELEFELD,Arztbehandlung,344.26
+B01385,2024-03-08,Dortmund,Heilmittel,164.02
+B00846,2025-01-01,Bielefeld,Krankenhaus,6451.85
+B01685,2025-12-27,ESSEN,Heilmittel,135.43
+B01631,15.09.2024, Bielefeld ,Zahnbehandlung,508.93
+B01767,01.04.2025,köln,Zahnbehandlung,407.12
+B00538,10.08.2025, Essen ,Krankenhaus,2177.51
+B00299,12.10.2025,münster,Krankenhaus,2854.96
+B01720,2025-10-12,DORTMUND,Zahnbehandlung,264.77
+B00255,2024-10-18,münster,Heilmittel,215.77
+B00878,11.10.2025,dortmund,Heilmittel,233.59
+B00902,31.01.2024,MÜNSTER,Zahnbehandlung,804.65
+B01926,2025-07-20,dortmund,Heilmittel,92.99
+B01588,2024-04-02,DORTMUND,Zahnbehandlung,700.40
+B01819,12.07.2025,essen,Zahnbehandlung,669.29
+B01856,2024-05-29,MÜNSTER,Heilmittel,48.34
+B00600,2024-09-12,Essen,Arzneimittel,503.82
+B00123,25.04.2025,essen,Krankenhaus,5507.33
+B01376,2024-08-17, Bielefeld ,Heilmittel,194.57
+B00899,2024-01-23,münster,Heilmittel,233.06
+B01303,15.03.2025, Essen ,Arzneimittel,91.42
+B00248,2024-04-13,BIELEFELD,Arzneimittel,55.53
+B00533,2025-04-08, Dortmund ,Krankenhaus,8607.19
+B01297,2024-04-17,DORTMUND,Heilmittel,29.65
+B00145,29.09.2025,Essen,Arzneimittel,315.88
+B01577,2024-12-03,bielefeld,Heilmittel,113.56
+B00963,2025-06-18,dortmund,Zahnbehandlung,367.20
+B00833,2025-02-05, Köln ,Arzneimittel,-43.06
+B01184,2025-05-15,münster,Arztbehandlung,239.70
+B01524,05.11.2025, Köln ,Zahnbehandlung,567.97
+B00144,02.01.2024,Essen,Heilmittel,209.73
+B01192,07.11.2025, Bielefeld ,Heilmittel,134.82
+B01076,14.04.2025,münster,Krankenhaus,7783.54
+B01441,2025-06-20,Essen,Arzneimittel,181.75
+B00679,08.06.2025,köln,Heilmittel,181.00
+B00228,13.11.2024,münster,Heilmittel,38.09
+B01826,09.10.2024,Münster,Heilmittel,115.98
+B01762,2025-12-09,bielefeld,Arzneimittel,139.66
+B01598,03.01.2024,münster,Arztbehandlung,124.28
+B00496,02.09.2024,Essen,Krankenhaus,7227.17
+B01667,2024-06-01,BIELEFELD,Krankenhaus,7268.62
+B01448,05.08.2025, Essen ,Heilmittel,95.65
+B00941,04.05.2024, Bielefeld ,Arztbehandlung,201.56
+B00945,24.05.2025,MÜNSTER,Heilmittel,187.71
+B00424,21.03.2025,essen,Arzneimittel,47.33
+B00064,2024-08-21,DORTMUND,Zahnbehandlung,334.20
+B00133,2025-10-02,Essen,Arztbehandlung,320.44
+B01363,2025-10-26,Köln,Zahnbehandlung,498.17
+B01614,2024-10-14,BIELEFELD,Heilmittel,62.98
+B01535,25.01.2025,MÜNSTER,Arztbehandlung,166.38
+B00410,2024-11-02,KÖLN,Zahnbehandlung,838.12
+B01434,11.03.2025,köln,Arztbehandlung,109.56
+B01634,2025-12-11, Essen ,Heilmittel,33.98
+B00491,2025-03-29,Dortmund,Zahnbehandlung,565.99
+B01989,06.05.2024,ESSEN,Arzneimittel,29.93
+B00938,2024-07-01,BIELEFELD,Krankenhaus,1692.88
+B00331,09.11.2025, Köln ,Heilmittel,94.76
+B01675,02.03.2024,BIELEFELD,Arzneimittel,553.33
+B01834,2024-10-17,dortmund,Arzneimittel,216.63
+B00798,29.08.2024,ESSEN,Krankenhaus,6710.69
+B01575,19.11.2024,Essen,Zahnbehandlung,744.76
+B00759,2025-12-27,Köln,Arztbehandlung,95.88
+B00187,16.05.2025,Bielefeld,Zahnbehandlung,599.78
+B01829,30.05.2024,münster,Zahnbehandlung,836.69
+B01481,2024-02-08, Köln ,Zahnbehandlung,207.82
+B00512,2024-01-13, Dortmund ,Krankenhaus,7841.25
+B00666,01.11.2025,bielefeld,Heilmittel,149.34
+B00047,01.08.2025,BIELEFELD,Zahnbehandlung,601.91
+B00838,2024-11-01,Bielefeld,Arztbehandlung,205.46
+B01454,2025-01-12,dortmund,Heilmittel,47.88
+B01031,2024-10-10, Essen ,Arzneimittel,470.63
+B00284,06.06.2024,bielefeld,Heilmittel,27.45
+B00460,29.07.2025, Essen ,Arzneimittel,490.98
+B01717,2024-02-09,ESSEN,Krankenhaus,3082.68
+B00387,30.04.2024,MÜNSTER,Arzneimittel,577.63
+B00841,18.08.2025,KÖLN,Krankenhaus,8744.45
+B01658,27.02.2024,Köln,Zahnbehandlung,164.43
+B01139,2024-07-11, Essen ,Heilmittel,70.86
+B01330,2025-05-15,dortmund,Arztbehandlung,105.84
+B00202,2025-03-16,DORTMUND,Zahnbehandlung,469.83
+B01801,30.01.2024, Köln ,Zahnbehandlung,192.72
+B01126,2025-04-19,Dortmund,Zahnbehandlung,516.57
+B00685,30.11.2025,Münster,Arzneimittel,590.28
+B01131,18.01.2024,Münster,Heilmittel,188.58
+B01656,2024-12-12,MÜNSTER,Heilmittel,189.31
+B00591,2025-04-29,münster,Zahnbehandlung,527.66
+B00820,2024-11-06,DORTMUND,Zahnbehandlung,256.03
+B00364,09.02.2025,DORTMUND,Arztbehandlung,296.23
+B00322,23.09.2025,köln,Arzneimittel,241.84
+B01583,2024-09-22,KÖLN,Zahnbehandlung,545.31
+B00587,2024-03-09, Essen ,Heilmittel,79.31
+B00951,12.12.2024,Essen,Arzneimittel,124.47
+B01014,29.08.2024,Münster,Arztbehandlung,318.45
+B00828,2025-05-18,Bielefeld,Arztbehandlung,287.68
+B00462,13.08.2024,dortmund,Heilmittel,27.10
+B00804,2025-11-26,KÖLN,Zahnbehandlung,135.48
+B01189,19.03.2024,köln,Zahnbehandlung,212.47
+B01097,2024-03-19,münster,Arzneimittel,180.14
+B01515,2025-10-13,dortmund,Heilmittel,45.11
+B01636,14.02.2025,MÜNSTER,Heilmittel,199.26
+B00217,12.05.2025,essen,Zahnbehandlung,605.89
+B00744,08.05.2025,ESSEN,Arztbehandlung,295.10
+B01196,2024-09-19,ESSEN,Arztbehandlung,267.27
+B01607,2024-02-11, Essen ,Krankenhaus,2354.45
+B01987,2024-01-21, Köln ,Krankenhaus,1095.81
+B01628,2025-11-01, Münster ,Krankenhaus,5609.80
+B01270,2025-11-20,Essen,Heilmittel,79.64
+B00837,2024-06-11,Köln,Arztbehandlung,376.08
+B01990,2024-03-19, Köln ,Arztbehandlung,348.24
+B01496,2024-07-13,dortmund,Arzneimittel,101.29
+B01529,30.03.2024, Köln ,Arzneimittel,303.78
+B01878,14.03.2024, Münster ,Heilmittel,145.71
+B00593,20.02.2024,bielefeld,Arztbehandlung,283.94
+B00227,2024-04-18, Essen ,Arztbehandlung,58.05
+B01389,2025-08-24,Dortmund,Zahnbehandlung,479.98
+B00448,09.07.2024,Essen,Zahnbehandlung,577.89
+B01959,2024-05-24,MÜNSTER,Arzneimittel,403.20
+B01485,2025-03-28, Dortmund ,Heilmittel,93.98
+B00253,2025-03-04,MÜNSTER,Zahnbehandlung,467.53
+B00776,10.04.2025,Köln,Heilmittel,241.50
+B01710,2024-09-26,Köln,Zahnbehandlung,470.17
+B01101,25.08.2024,essen,Krankenhaus,980.70
+B00769,14.02.2025,Köln,Zahnbehandlung,839.70
+B00481,10.06.2024,Essen,Krankenhaus,1818.74
+B01006,12.01.2024, Essen ,Arztbehandlung,225.64
+B01140,2024-05-14,essen,Krankenhaus,1755.84
+B00582,31.01.2025, Köln ,Heilmittel,34.03
+B00048,2025-02-09, Bielefeld ,Arztbehandlung,114.51
+B00851,2024-07-08,köln,Heilmittel,107.18
+B00884,2025-02-08,KÖLN,Heilmittel,65.56
+B01157,12.04.2025,ESSEN,Krankenhaus,3955.21
+B00721,13.05.2025,BIELEFELD,Arzneimittel,438.10
+B00342,02.05.2025,münster,Zahnbehandlung,598.02
+B00320,07.12.2024, Köln ,Krankenhaus,1119.09
+B00061,30.06.2024,DORTMUND,Arzneimittel,520.12
+B01554,01.06.2024,Münster,Heilmittel,119.78
+B00925,25.07.2024,dortmund,Heilmittel,226.22
+B00646,13.04.2024, Münster ,Heilmittel,37.26
+B00598,2024-06-11, Bielefeld ,Krankenhaus,5025.21
+B00623,2024-06-03,münster,Zahnbehandlung,77.03
+B01308,05.03.2025,köln,Heilmittel,243.71
+B01085,2025-04-15, Essen ,Arztbehandlung,85.68
+B00426,2025-04-13,münster,Heilmittel,161.83
+B00171,11.08.2025,Bielefeld,Zahnbehandlung,527.57
+B01275,2025-10-27,ESSEN,Zahnbehandlung,594.30
+B01890,2025-09-19, Köln ,Zahnbehandlung,550.39
+B00997,27.05.2024,ESSEN,Krankenhaus,6116.79
+B01809,18.02.2025,Essen,Heilmittel,180.89
+B01171,18.11.2024, Essen ,Krankenhaus,3945.76
+B00067,2024-09-28, Dortmund ,Heilmittel,241.38
+B01902,29.07.2024,BIELEFELD,Arztbehandlung,376.89
+B00524,2025-06-01,Essen,Krankenhaus,5562.32
+B00799,02.06.2024,DORTMUND,Arzneimittel,482.02
+B00349,15.01.2024,BIELEFELD,Arztbehandlung,294.47
+B01091,2025-12-22,KÖLN,Arzneimittel,392.42
+B01825,26.11.2025, Bielefeld ,Heilmittel,60.24
+B01022,18.09.2024,ESSEN,Arztbehandlung,325.87
+B00947,31.07.2024,Essen,Krankenhaus,6847.24
+B00311,25.05.2025,essen,Arzneimittel,460.24
+B00911,27.01.2024,KÖLN,Krankenhaus,1878.68
+B01365,2025-12-14, Dortmund ,Zahnbehandlung,184.15
+B00655,2025-12-01, Essen ,Arztbehandlung,254.26
+B00698,2025-02-17,BIELEFELD,Zahnbehandlung,502.48
+B00703,18.01.2025,Essen,Krankenhaus,8272.95
+B01682,11.12.2024,dortmund,Zahnbehandlung,388.02
+B01789,05.12.2025,BIELEFELD,Krankenhaus,2962.56
+B00975,28.12.2025,ESSEN,Arztbehandlung,281.68
+B00797,2025-08-08,KÖLN,Arztbehandlung,194.02
+B01979,24.09.2024, Essen ,Heilmittel,197.51
+B00674,17.05.2024,Dortmund,Heilmittel,239.92
+B00862,2025-08-06, Köln ,Heilmittel,171.08
+B01205,2024-08-11,DORTMUND,Arzneimittel,561.95
+B01462,06.06.2024,BIELEFELD,Krankenhaus,6354.54
+B00590,18.12.2024, Bielefeld ,Arztbehandlung,350.30
+B00131,31.08.2025,Bielefeld,Zahnbehandlung,421.94
+B00453,26.04.2024, Bielefeld ,Heilmittel,110.29
+B01294,14.12.2024,dortmund,Zahnbehandlung,254.31
+B00038,18.03.2024,Köln,Arzneimittel,525.95
+B00461,30.03.2025,Münster,Zahnbehandlung,647.82
+B00454,20.11.2025,Köln,Heilmittel,59.68
+B00199,15.02.2025, Dortmund ,Krankenhaus,8988.41
+B01794,17.03.2024,DORTMUND,Arzneimittel,420.03
+B01953,25.08.2025,DORTMUND,Zahnbehandlung,183.75
+B01670,10.03.2025,essen,Arztbehandlung,144.74
+B01234,05.11.2024,BIELEFELD,Heilmittel,162.52
+B00266,28.03.2024,Dortmund,Arzneimittel,401.98
+B00849,2025-09-05,DORTMUND,Arztbehandlung,350.37
+B00039,2025-07-07,DORTMUND,Krankenhaus,6147.59
+B01566,24.06.2024,DORTMUND,Arztbehandlung,387.35
+B00834,13.09.2024,Dortmund,Arzneimittel,123.39
+B01741,01.10.2024, Bielefeld ,Arzneimittel,309.46
+B01600,22.09.2025,bielefeld,Krankenhaus,3717.10
+B01379,03.12.2024,Dortmund,Arzneimittel,126.16
+B00372,2024-04-25,Essen,Arzneimittel,172.63
+B00817,2025-12-15, Köln ,Arzneimittel,582.03
+B00094,2024-05-10,Essen,Arzneimittel,505.90
+B01673,2025-03-07,DORTMUND,Zahnbehandlung,102.75
+B00567,2025-08-14, Münster ,Krankenhaus,7596.22
+B01637,2024-08-11, Köln ,Krankenhaus,2112.03
+B01276,2025-04-19, Essen ,Krankenhaus,3267.53
+B01450,28.06.2024,MÜNSTER,Arztbehandlung,171.66
+B00441,2025-11-26,Bielefeld,Zahnbehandlung,432.86
+B00969,24.05.2024,KÖLN,Heilmittel,93.25
+B01175,26.09.2024, Köln ,Heilmittel,32.82
+B01444,2024-07-30,münster,Zahnbehandlung,860.93
+B00101,2025-01-12,Köln,Zahnbehandlung,638.53
+B01272,08.09.2025,bielefeld,Zahnbehandlung,785.84
+B01105,2024-06-19,köln,Arztbehandlung,195.97
+B01053,2025-09-22,DORTMUND,Zahnbehandlung,547.63
+B01347,2024-05-03,MÜNSTER,Arztbehandlung,165.82
+B01374,2025-10-18, Bielefeld ,Krankenhaus,8490.70
+B01170,2025-07-07, Dortmund ,Heilmittel,99.03
+B00393,2025-01-23,essen,Arzneimittel,204.62
+B01642,09.10.2025,Bielefeld,Krankenhaus,6118.89
+B00888,2025-03-28,Essen,Arztbehandlung,256.08
+B00163,17.02.2024,dortmund,Arztbehandlung,363.78
+B00527,2024-07-26,Köln,Arztbehandlung,112.60
+B00377,2025-06-17,essen,Arzneimittel,591.56
+B00046,2025-08-31,Köln,Heilmittel,76.63
+B01486,2024-02-23,MÜNSTER,Krankenhaus,8620.02
+B01460,2024-06-14,Dortmund,Zahnbehandlung,743.77
+B01388,2025-09-27,Bielefeld,Zahnbehandlung,721.79
+B01305,2025-06-13,dortmund,Krankenhaus,6684.53
+B00162,2024-04-10,ESSEN,Krankenhaus,4358.57
+B01050,2025-09-25,MÜNSTER,Krankenhaus,4664.00
+B00783,20.11.2025,DORTMUND,Arztbehandlung,59.88
+B01364,27.12.2024,köln,Zahnbehandlung,614.85
+B01248,2024-12-02,Bielefeld,Zahnbehandlung,618.91
+B01845,02.08.2025, Dortmund ,Arzneimittel,376.32
+B01719,2024-08-06,Münster,Zahnbehandlung,881.35
+B01339,2024-07-29, Köln ,Krankenhaus,3054.69
+B00669,10.10.2025,köln,Arztbehandlung,158.18
+B00157,09.05.2024, Dortmund ,Zahnbehandlung,869.40
+B00084,11.06.2024,essen,Heilmittel,122.56
+B01274,2024-01-17,DORTMUND,Arzneimittel,76.03
+B01166,2024-05-17,Dortmund,Zahnbehandlung,230.81
+B01073,16.09.2025, Münster ,Arzneimittel,137.54
+B00500,2024-09-25,Dortmund,Heilmittel,35.53
+B01265,07.11.2025,bielefeld,Zahnbehandlung,112.20
+B00939,2025-01-03,dortmund,Zahnbehandlung,681.92
+B00708,2024-02-25,Bielefeld,Krankenhaus,1517.67
+B01904,2025-05-30,dortmund,Arztbehandlung,286.66
+B00883,2025-12-15, Münster ,Zahnbehandlung,466.59
+B01011,19.03.2024,BIELEFELD,Krankenhaus,
+B00297,2024-02-26,KÖLN,Arzneimittel,265.24
+B00259,11.04.2024,MÜNSTER,Krankenhaus,3413.22
+B01921,2025-04-22, Bielefeld ,Krankenhaus,4407.26
+B01787,14.07.2024,Köln,Arzneimittel,110.41
+B00173,23.08.2024,MÜNSTER,Arztbehandlung,315.90
+B00359,21.12.2025,Dortmund,Heilmittel,122.75
+B00510,2025-01-03,ESSEN,Zahnbehandlung,426.02
+B00812,27.01.2024,Köln,Zahnbehandlung,507.14
+B01331,03.03.2025,köln,Krankenhaus,7937.50
+B00075,13.09.2025, Essen ,Zahnbehandlung,
+B00732,10.02.2025,Köln,Heilmittel,137.39
+B01334,01.10.2025,ESSEN,Arztbehandlung,58.49
+B01221,2025-08-07,Dortmund,Zahnbehandlung,851.94
+B00073,06.03.2025,münster,Heilmittel,49.28
+B00610,07.06.2025,köln,Heilmittel,43.53
+B00665,2025-07-16,dortmund,Zahnbehandlung,61.17
+B00915,16.01.2024,ESSEN,Krankenhaus,4150.43
+B00036,2024-04-21,MÜNSTER,Arztbehandlung,325.22
+B00855,2024-07-25,ESSEN,Arzneimittel,525.36
+B00731,16.08.2024, Münster ,Arzneimittel,225.83
+B00601,07.10.2024, Essen ,Arztbehandlung,289.24
+B01333,16.04.2025,ESSEN,Arzneimittel,307.81
+B00548,01.02.2025,MÜNSTER,Arzneimittel,349.66
+B01112,2025-08-10, Köln ,Arztbehandlung,388.60
+B00049,2024-03-15,Essen,Arztbehandlung,373.38
+B00607,2025-09-07,münster,Arzneimittel,391.95
+B01499,2025-08-02, Münster ,Krankenhaus,3955.57
+B01381,2024-12-14,BIELEFELD,Krankenhaus,4683.33
+B00517,20.07.2025,dortmund,Arztbehandlung,
+B01813,2024-03-12,münster,Arzneimittel,195.92
+B01398,12.12.2025,köln,Arzneimittel,404.04
+B00103,2024-07-22,KÖLN,Zahnbehandlung,849.08
+B00752,2024-05-15,DORTMUND,Arzneimittel,233.14
+B01625,2024-01-14,bielefeld,Krankenhaus,1594.48
+B01003,2025-12-08,münster,Heilmittel,130.75
+B01024,2024-01-09, Dortmund ,Heilmittel,22.43
+B00082,13.12.2025,DORTMUND,Arzneimittel,113.77
+B00577,11.11.2024, Essen ,Zahnbehandlung,764.08
+B00952,04.10.2025,köln,Arzneimittel,294.08
+B00100,2025-11-16,KÖLN,Arzneimittel,84.47
+B01712,06.08.2025,DORTMUND,Arztbehandlung,165.93
+B01354,20.04.2025,Münster,Krankenhaus,808.21
+B01259,20.03.2025,Dortmund,Arztbehandlung,255.20
+B01055,2024-11-25,DORTMUND,Heilmittel,145.55
+B01001,30.08.2024,essen,Heilmittel,134.58
+B01556,2025-11-17, Essen ,Zahnbehandlung,704.99
+B01209,2024-01-22,DORTMUND,Arztbehandlung,333.01
+B00691,2025-09-09,münster,Heilmittel,145.72
+B00015,2024-03-08,köln,Arztbehandlung,175.44
+B01934,2025-08-19, Münster ,Arzneimittel,233.52
+B00164,2024-05-29, Köln ,Arztbehandlung,165.57
+B00786,12.09.2024,Münster,Arzneimittel,129.63
+B01089,21.11.2025,Dortmund,Krankenhaus,5020.84
+B01775,2024-08-05,dortmund,Zahnbehandlung,276.74
+B01768,13.09.2025,ESSEN,Arztbehandlung,258.59
+B00229,2025-10-10,KÖLN,Arzneimittel,55.06
+B00748,2025-10-14,Bielefeld,Heilmittel,242.93
+B01096,2025-04-13, Dortmund ,Krankenhaus,2344.50
+B00687,2025-11-22, Köln ,Krankenhaus,5852.09
+B01505,28.01.2025,Köln,Krankenhaus,6084.06
+B00764,14.08.2025,ESSEN,Arztbehandlung,395.69
+B01029,16.09.2024,Essen,Krankenhaus,6504.36
+B00923,2024-04-25,KÖLN,Krankenhaus,6725.70
+B01237,2024-11-16, Münster ,Arzneimittel,163.64
+B00238,04.03.2024,dortmund,Heilmittel,54.70
+B01299,07.01.2025,Münster,Krankenhaus,2065.23
+B00530,2024-04-02,Bielefeld,Arztbehandlung,344.68
+B00871,2025-08-07,Dortmund,Heilmittel,137.59
+B00621,2025-09-27,ESSEN,Heilmittel,153.47
+B00112,02.09.2025,Köln,Arztbehandlung,152.63
+B00866,28.11.2024, Essen ,Heilmittel,248.04
+B00823,12.07.2024, Köln ,Krankenhaus,5295.34
+B01383,2024-03-03,essen,Heilmittel,48.71
+B00996,2025-11-17,Münster,Arzneimittel,180.20
+B00024,2024-06-14,köln,Arzneimittel,230.61
+B00932,2024-09-16, Essen ,Krankenhaus,5904.99
+B01384,04.03.2024,dortmund,Krankenhaus,7217.70
+B01776,2025-11-18, Köln ,Heilmittel,237.64
+B01177,10.01.2025,Köln,Heilmittel,30.38
+B01742,2025-02-28,Dortmund,Arzneimittel,12.45
+B00654,05.08.2025, Münster ,Heilmittel,131.02
+B00330,2025-04-27,MÜNSTER,Heilmittel,198.24
+B00026,2024-03-21,Essen,Arzneimittel,528.03
+B00829,2025-07-01,Münster,Arzneimittel,39.28
+B01344,2024-04-01, Bielefeld ,Arzneimittel,160.78
+B00208,2025-03-09,bielefeld,Arztbehandlung,352.60
+B00710,18.01.2024,Dortmund,Zahnbehandlung,406.73
+B01709,01.10.2025,Bielefeld,Zahnbehandlung,
+B00953,2025-02-27,köln,Zahnbehandlung,712.07
+B00218,26.04.2024,Essen,Arzneimittel,455.42
+B01060,2025-05-02,MÜNSTER,Zahnbehandlung,633.35
+B01568,12.12.2025,köln,Arzneimittel,350.47
+B00335,27.07.2025,Bielefeld,Arztbehandlung,204.93
+B01935,17.08.2024,Köln,Krankenhaus,8632.47
+B01528,2024-10-27,Münster,Krankenhaus,6821.08
+B01553,2024-07-02,dortmund,Arztbehandlung,390.31
+B00072,22.02.2025,essen,Heilmittel,91.14
+B00985,19.04.2025,Köln,Krankenhaus,5655.74
+B00793,2025-01-23,bielefeld,Krankenhaus,6327.65
+B01655,2025-10-04,Dortmund,Krankenhaus,2994.78
+B00584,2025-06-13, Dortmund ,Krankenhaus,4917.23
+B00309,24.10.2024, Köln ,Arzneimittel,
+B01831,16.01.2024,DORTMUND,Krankenhaus,7358.24
+B00369,04.07.2025,KÖLN,Arztbehandlung,69.49
+B01340,13.09.2025,Essen,Krankenhaus,7416.75
+B00787,23.11.2025,Köln,Krankenhaus,8345.54
+B00696,17.07.2025,dortmund,Zahnbehandlung,717.22
+B00191,21.02.2024,MÜNSTER,Heilmittel,243.35
+B01788,2024-02-14,dortmund,Krankenhaus,2929.44
+B00619,10.11.2024,bielefeld,Arzneimittel,219.62
+B00433,2025-12-10, Essen ,Zahnbehandlung,723.99
+B00091,26.12.2024, Essen ,Zahnbehandlung,35.13
+B01928,03.06.2025,Dortmund,Arztbehandlung,65.94
+B01024,2024-01-09, Dortmund ,Heilmittel,22.43
+B00283,22.10.2025, Bielefeld ,Krankenhaus,2735.16
+B00472,2025-11-02,MÜNSTER,Krankenhaus,8938.39
+B01323,13.10.2025, Essen ,Arztbehandlung,244.11
+B01885,27.05.2025,Essen,Heilmittel,234.32
+B01744,04.09.2024, Münster ,Heilmittel,248.35
+B01228,2024-05-29,bielefeld,Zahnbehandlung,186.92
+B01251,2024-12-03, Köln ,Heilmittel,171.34
+B00004,27.10.2025, Münster ,Heilmittel,65.73
+B01027,2025-11-03,Köln,Krankenhaus,8495.74
+B00697,2024-07-07,KÖLN,Heilmittel,70.59
+B00742,19.03.2024,MÜNSTER,Zahnbehandlung,174.08
+B01755,2025-01-05,Essen,Krankenhaus,1434.53
+B00482,2025-12-06,BIELEFELD,Zahnbehandlung,206.02
+B01608,2024-06-13,essen,Arztbehandlung,362.87
+B01664,01.07.2024,köln,Krankenhaus,5756.95
+B00455,01.09.2024,DORTMUND,Arzneimittel,194.78
+B00056,2024-12-07,BIELEFELD,Arztbehandlung,41.53
+B01543,2025-12-06, Bielefeld ,Arztbehandlung,213.39
+B01678,10.03.2025,Dortmund,Krankenhaus,6508.20
+B01001,30.08.2024,essen,Heilmittel,134.58
+B01570,2024-11-02,MÜNSTER,Krankenhaus,2342.20
+B00147,2025-10-07,münster,Krankenhaus,1036.73
+B01094,08.04.2025,Köln,Krankenhaus,3857.07
+B00807,08.08.2025,Dortmund,Zahnbehandlung,579.21
+B01686,18.06.2025,MÜNSTER,Arztbehandlung,389.92
+B00870,07.08.2024,dortmund,Arztbehandlung,394.15
+B01382,26.09.2025, Dortmund ,Krankenhaus,7161.15
+B00580,2024-10-02,Münster,Zahnbehandlung,259.16
+B01828,21.12.2024,Dortmund,Heilmittel,242.68
+B00819,01.04.2024,bielefeld,Heilmittel,72.24
+B00274,18.02.2024,Bielefeld,Arzneimittel,178.81
+B00652,04.05.2025,Münster,Zahnbehandlung,630.22
+B00264,2025-05-26,KÖLN,Krankenhaus,1709.03
+B00794,10.07.2024,münster,Heilmittel,218.22
+B00197,2025-06-09,ESSEN,Zahnbehandlung,706.87
+B00498,15.05.2024, Köln ,Arztbehandlung,375.22
+B00950,07.12.2024,Essen,Krankenhaus,1733.46
+B00771,2025-09-05,KÖLN,Arzneimittel,29.83
+B01369,2025-12-21,DORTMUND,Krankenhaus,3102.20
+B00968,2025-09-29,münster,Krankenhaus,925.11
+B00436,09.12.2025,Köln,Heilmittel,136.52
+B01432,2025-07-25,BIELEFELD,Zahnbehandlung,421.48
+B00808,17.11.2024,bielefeld,Arzneimittel,212.74
+B01407,2024-04-13, Münster ,Arzneimittel,507.30
+B01127,17.10.2025,dortmund,Arzneimittel,164.98
+B01732,11.04.2025,essen,Zahnbehandlung,594.55
+B00205,05.06.2024,Dortmund,Arztbehandlung,165.36
+B00706,2025-03-10, Münster ,Arzneimittel,520.32
+B00327,26.09.2025,MÜNSTER,Arzneimittel,319.30
+B00978,2025-05-01, Bielefeld ,Zahnbehandlung,56.33
+B00011,2025-01-08,bielefeld,Arztbehandlung,195.03
+B01769,2025-10-09,ESSEN,Heilmittel,101.17
+B01138,2024-06-15,MÜNSTER,Zahnbehandlung,326.07
+B01964,2024-08-15,BIELEFELD,Krankenhaus,6903.08
+B00316,06.01.2025, Dortmund ,Heilmittel,149.22
+B00502,2025-07-04,Bielefeld,Krankenhaus,6052.41
+B00185,2025-07-04, Essen ,Krankenhaus,2725.36
+B00895,2024-01-09,essen,Krankenhaus,4612.68
+B00417,2025-12-29,essen,Arztbehandlung,82.83
+B00484,02.10.2025, Münster ,Arzneimittel,40.55
+B00379,20.10.2025,köln,Krankenhaus,8772.78
+B00165,2024-07-03,Münster,Heilmittel,176.81
+B00630,2025-10-03,münster,Krankenhaus,6349.33
+B00618,2024-09-21,Bielefeld,Zahnbehandlung,141.31
+B00353,03.12.2024,Köln,Zahnbehandlung,685.77
+B00411,02.02.2025,ESSEN,Heilmittel,211.97
+B01672,30.06.2025,KÖLN,Heilmittel,134.33
+B01723,2024-10-31,münster,Zahnbehandlung,327.56
+B00002,2025-07-12, Köln ,Krankenhaus,6348.94
+B00944,30.09.2025, Münster ,Arztbehandlung,222.02
+B00339,2025-08-23,Münster,Arzneimittel,74.44
+B00811,2025-02-10,Dortmund,Krankenhaus,2526.69
+B01923,21.09.2024, Bielefeld ,Krankenhaus,4411.60
+B01777,2024-11-23,Münster,Zahnbehandlung,306.47
+B01967,23.08.2025,MÜNSTER,Krankenhaus,2816.49
+B00634,2025-02-17,MÜNSTER,Arzneimittel,107.28
+B01559,2024-04-06, Essen ,Arztbehandlung,285.15
+B00111,05.07.2024,münster,Zahnbehandlung,770.33
+B00683,2025-03-08,Köln,Heilmittel,85.76
+B01359,21.11.2024, Bielefeld ,Heilmittel,136.11
+B00267,14.02.2024,bielefeld,Zahnbehandlung,789.80
+B00286,2024-10-12,Dortmund,Zahnbehandlung,303.52
+B01648,2025-05-05,ESSEN,Zahnbehandlung,350.72
+B01663,2024-12-07,Bielefeld,Arztbehandlung,53.61
+B01942,2025-11-12,köln,Zahnbehandlung,616.47
+B01595,10.06.2025, Dortmund ,Arztbehandlung,339.78
+B01223,2024-06-21, Essen ,Arzneimittel,164.45
+B00616,02.05.2025,köln,Heilmittel,166.81
+B01805,12.07.2024,münster,Zahnbehandlung,198.72
+B01049,2024-03-14, Münster ,Heilmittel,73.59
+B00336,23.01.2025,BIELEFELD,Heilmittel,175.62
+B00059,10.02.2024,MÜNSTER,Krankenhaus,3327.72
+B01215,14.07.2025,Essen,Arztbehandlung,182.83
+B00821,2025-07-01, Essen ,Arztbehandlung,132.54
+B01183,20.11.2024, Köln ,Heilmittel,25.11
+B00552,2024-08-12, Köln ,Krankenhaus,2707.51
+B01949,2024-12-10,Dortmund,Arztbehandlung,361.53
+B00863,13.08.2025, Essen ,Krankenhaus,7083.52
+B00221,20.05.2024,bielefeld,Arztbehandlung,379.50
+B01039,2024-03-12, Dortmund ,Zahnbehandlung,409.37
+B00480,2024-02-19, Dortmund ,Arztbehandlung,360.31
+B00083,20.04.2025, Essen ,Krankenhaus,4542.99
+B00615,2025-08-20,BIELEFELD,Zahnbehandlung,670.96
+B00822,16.03.2025,KÖLN,Arztbehandlung,28.42
+B01390,2024-03-10,KÖLN,Krankenhaus,5680.44
+B00989,03.02.2025,MÜNSTER,Zahnbehandlung,492.19
+B00692,2025-11-30,MÜNSTER,Zahnbehandlung,
+B01231,03.09.2025,Dortmund,Zahnbehandlung,646.35
+B00765,2025-04-02,DORTMUND,Krankenhaus,6932.08
+B01482,2024-11-21, Köln ,Arztbehandlung,75.35
+B00518,2024-11-07,essen,Arzneimittel,182.04
+B00499,25.06.2024,Dortmund,Arztbehandlung,229.88
+B01726,2024-11-20, Münster ,Arztbehandlung,274.02
+B01986,05.12.2024,MÜNSTER,Arzneimittel,547.29
+B01881,2024-03-13,münster,Zahnbehandlung,574.16
+B00891,23.04.2024, Essen ,Arztbehandlung,285.17
+B01423,2025-03-28,Bielefeld,Zahnbehandlung,51.50
+B01180,2025-12-05,Bielefeld,Heilmittel,39.54
+B01216,07.07.2024,Münster,Krankenhaus,6059.26
+B00935,07.09.2024,KÖLN,Heilmittel,158.02
+B01263,19.06.2025,Bielefeld,Arztbehandlung,340.58
+B00900,2024-06-09,bielefeld,Arztbehandlung,208.72
+B00045,2024-03-10,Essen,Arzneimittel,50.43
+B01547,29.04.2025, Essen ,Arztbehandlung,183.41
+B01120,30.03.2025,essen,Arzneimittel,439.43
+B01544,22.12.2025,dortmund,Arzneimittel,302.07
+B00334,31.10.2024, Münster ,Arzneimittel,565.48
+B00628,03.05.2025,Dortmund,Zahnbehandlung,380.95
+B00734,2025-08-02,essen,Zahnbehandlung,168.52
+B00384,2024-07-14, Bielefeld ,Krankenhaus,5192.21
+B00206,08.04.2024,Münster,Krankenhaus,1564.49
+B01724,2025-07-02,essen,Zahnbehandlung,449.01
+B00690,26.07.2024,münster,Krankenhaus,6898.09
+B00686,2025-07-08, Bielefeld ,Arztbehandlung,101.50
+B01546,2024-11-02, Dortmund ,Zahnbehandlung,662.83
+B00864,03.07.2024,köln,Krankenhaus,2167.84
+B00326,2025-08-15, Dortmund ,Arztbehandlung,387.65
+B00017,28.07.2025, Köln ,Arzneimittel,155.51
+B00735,2025-05-14,dortmund,Krankenhaus,2594.32
+B01290,20.05.2025,MÜNSTER,Krankenhaus,7306.56
+B00215,13.01.2025,Bielefeld,Zahnbehandlung,326.58
+B01929,07.08.2025,Essen,Arzneimittel,130.38
+B01974,2024-04-08,dortmund,Heilmittel,130.62
+B00070,2025-07-05, Bielefeld ,Krankenhaus,5063.35
+B01206,26.03.2025,Bielefeld,Arzneimittel,582.25
+B01549,2025-08-17, Bielefeld ,Krankenhaus,1873.39
+B00774,2025-12-21,dortmund,Heilmittel,23.53
+B01876,2024-07-15,Köln,Zahnbehandlung,738.04
+B00763,2025-05-09, Bielefeld ,Heilmittel,200.27
+B00662,2025-02-16, Dortmund ,Heilmittel,167.96
+B01735,06.11.2025,Bielefeld,Zahnbehandlung,277.97
+B00957,2024-11-18, Bielefeld ,Arztbehandlung,289.47
+B01547,29.04.2025, Essen ,Arztbehandlung,183.41
+B01842,02.12.2025,essen,Arztbehandlung,213.93
+B00382,2025-03-02,ESSEN,Heilmittel,114.92
+B01586,29.05.2025, Bielefeld ,Arztbehandlung,324.43
+B01349,20.07.2025, Dortmund ,Krankenhaus,3410.36
+B01059,2024-01-08,dortmund,Zahnbehandlung,100.23
+B00237,2025-08-08, Bielefeld ,Zahnbehandlung,820.87
+B00065,12.03.2024, Bielefeld ,Zahnbehandlung,315.59
+B00535,14.02.2025,dortmund,Arzneimittel,87.12
+B00958,31.08.2024,essen,Krankenhaus,4875.85
+B00447,27.07.2025,ESSEN,Heilmittel,56.83
+B00529,31.07.2024, Bielefeld ,Krankenhaus,5194.58
+B01573,2025-12-12,KÖLN,Arztbehandlung,278.70
+B01052,2025-08-28,Dortmund,Heilmittel,59.26
+B01641,2024-02-22,Münster,Arzneimittel,169.56
+B00551,28.06.2024,Dortmund,Zahnbehandlung,501.65
+B01522,2024-04-12, Essen ,Arztbehandlung,352.40
+B01130,21.09.2024,dortmund,Heilmittel,120.30
+B01032,21.09.2024, Münster ,Arztbehandlung,398.48
+B01054,25.11.2025,Bielefeld,Zahnbehandlung,323.49
+B00701,2025-10-19,dortmund,Zahnbehandlung,239.10
+B00425,04.01.2025, Münster ,Zahnbehandlung,710.92
+B00592,15.09.2025, Dortmund ,Zahnbehandlung,155.15
+B01397,2025-10-17,dortmund,Arzneimittel,586.14
+B01324,2024-05-27, Essen ,Zahnbehandlung,746.72
+B00711,2025-08-22,dortmund,Heilmittel,34.54
+B00889,2025-01-17,Dortmund,Arzneimittel,127.81
+B01439,2024-06-30, Köln ,Krankenhaus,6334.06
+B01952,21.11.2025,essen,Heilmittel,156.40
+B01165,2024-04-20, Bielefeld ,Arzneimittel,463.12
+B01924,2024-06-27,Köln,Arzneimittel,144.18
+B00319,05.06.2025,Köln,Arzneimittel,127.44
+B01818,12.04.2024, Bielefeld ,Arzneimittel,467.40
+B01199,30.01.2024,BIELEFELD,Arzneimittel,170.90
+B00076,07.06.2025,Münster,Zahnbehandlung,617.80
+B01996,2025-01-16,ESSEN,Zahnbehandlung,662.97
+B01408,03.08.2024,ESSEN,Krankenhaus,3574.74
+B01293,2024-08-20,KÖLN,Zahnbehandlung,129.15
+B00921,07.11.2024,ESSEN,Zahnbehandlung,376.29
+B01965,2025-04-09,Bielefeld,Heilmittel,97.13
+B01946,04.02.2024,DORTMUND,Krankenhaus,1836.46
+B01865,23.05.2024, Bielefeld ,Zahnbehandlung,652.21
+B00715,25.10.2025,DORTMUND,Arzneimittel,185.85
+B00745,2025-02-24,Münster,Heilmittel,57.09
+B01186,25.07.2024,DORTMUND,Arztbehandlung,388.54
+B01815,2024-09-27,Münster,Krankenhaus,2255.62
+B01795,24.04.2025, Münster ,Krankenhaus,6298.09
+B00190,05.05.2024,DORTMUND,Arztbehandlung,96.18
+B00542,2025-03-05,KÖLN,Arztbehandlung,168.63
+B01832,2024-05-06,essen,Arztbehandlung,334.55
+B01429,01.06.2024,MÜNSTER,Zahnbehandlung,599.06
+B00532,20.02.2024,BIELEFELD,Arztbehandlung,173.59
+B00605,2025-08-08,MÜNSTER,Zahnbehandlung,73.20
+B01711,2025-07-28,Münster,Arzneimittel,422.85
+B01927,2024-12-27,KÖLN,Arztbehandlung,31.04
+B00559,06.12.2025,MÜNSTER,Zahnbehandlung,296.94
+B00386,06.12.2024,DORTMUND,Zahnbehandlung,211.73
+B01910,20.01.2024, Essen ,Heilmittel,108.31
+B00848,10.07.2025, Bielefeld ,Arzneimittel,344.35
+B00647,2024-02-21,Münster,Arztbehandlung,124.05
+B01158,2025-03-14, Dortmund ,Heilmittel,
+B00288,18.09.2025,ESSEN,Zahnbehandlung,216.68
+B00572,2024-12-05, Münster ,Arzneimittel,41.60
+B01858,12.04.2024,bielefeld,Arztbehandlung,133.54
+B00588,09.10.2024, Dortmund ,Heilmittel,95.01
+B01713,2025-11-16, Bielefeld ,Zahnbehandlung,790.52
+B00777,2025-06-02,Köln,Arztbehandlung,90.64
+B00110,06.08.2025,Bielefeld,Arzneimittel,452.78
+B01758,2024-07-01,dortmund,Arzneimittel,186.27
+B00272,2024-07-23,bielefeld,Arzneimittel,35.85
+B01512,2024-05-17,ESSEN,Arztbehandlung,94.90
+B01548,16.10.2024, Münster ,Krankenhaus,5128.32
+B01531,2025-11-06, Dortmund ,Arzneimittel,134.87
+B01771,03.07.2024,ESSEN,Zahnbehandlung,56.05
+B01316,2024-02-18,essen,Heilmittel,101.53
+B01395,2025-11-04,DORTMUND,Krankenhaus,5044.98
+B00631,27.01.2025,Münster,Arztbehandlung,73.35
+B00506,2024-11-12,Dortmund,Heilmittel,160.03
+B01484,2025-11-11, Münster ,Arzneimittel,328.19
+B01502,2025-11-23,münster,Arztbehandlung,261.61
+B00943,11.09.2025,essen,Zahnbehandlung,659.94
+B00768,15.08.2024,Dortmund,Krankenhaus,1325.46
+B01307,2025-10-18,Köln,Krankenhaus,6213.44
+B00446,2024-06-17,KÖLN,Krankenhaus,6352.54
+B01766,24.08.2025,MÜNSTER,Heilmittel,202.43
+B01793,2024-10-30,BIELEFELD,Arzneimittel,64.16
+B01688,30.10.2025,ESSEN,Zahnbehandlung,445.35
+B01893,2024-02-26, Münster ,Arzneimittel,22.65
+B00042,23.07.2025,MÜNSTER,Zahnbehandlung,636.03
+B01284,21.12.2024,Essen,Heilmittel,235.96
+B01211,06.02.2025,Bielefeld,Zahnbehandlung,367.97
+B01937,12.08.2025,münster,Arztbehandlung,125.94
+B00381,2024-11-03,Essen,Arzneimittel,511.11
+B01847,2024-10-03,Bielefeld,Krankenhaus,1494.20
+B01495,14.03.2024, Münster ,Heilmittel,159.39
+B00374,15.02.2025,MÜNSTER,Arzneimittel,446.92
+B00186,14.12.2025,KÖLN,Arztbehandlung,276.43
+B00239,2024-06-25, Münster ,Krankenhaus,4937.30
+B00181,19.11.2025, Köln ,Zahnbehandlung,350.67
+B00949,10.03.2024,bielefeld,Arztbehandlung,120.41
+B01160,2025-11-23,DORTMUND,Zahnbehandlung,484.72
+B00177,09.01.2025,münster,Heilmittel,221.59
+B01427,21.05.2024,dortmund,Arzneimittel,426.33
+B01164,13.11.2025,essen,Zahnbehandlung,339.80
+B01780,2025-08-12,essen,Arztbehandlung,31.69
+B00700,2025-07-28,dortmund,Heilmittel,142.01
+B00242,25.11.2025,bielefeld,Arztbehandlung,60.44
+B00719,2025-08-03, Köln ,Arzneimittel,405.88
+B01149,2024-06-13,Köln,Heilmittel,100.00
+B00561,2025-09-18,Köln,Arzneimittel,365.41
+B00638,2025-01-24,köln,Krankenhaus,
+B00007,18.12.2024, Dortmund ,Krankenhaus,3743.63
+B01948,2025-07-24,Bielefeld,Arzneimittel,247.37
+B01302,2025-11-11, Münster ,Zahnbehandlung,343.76
+B00355,19.02.2025,dortmund,Zahnbehandlung,296.92
+B00839,29.08.2024,Bielefeld,Arzneimittel,584.23
+B01036,2025-04-01,ESSEN,Heilmittel,187.34
+B01411,2025-03-15,DORTMUND,Arztbehandlung,144.23
+B00407,2024-08-23, Köln ,Heilmittel,231.41
+B01247,03.07.2024,DORTMUND,Heilmittel,196.37
+B00565,19.02.2024, Essen ,Krankenhaus,6707.39
+B00092,2025-07-13,ESSEN,Heilmittel,191.93
+B01705,07.01.2025,Dortmund,Krankenhaus,3096.96
+B00354,2025-12-10,Dortmund,Arztbehandlung,270.13
+B00172,2025-08-02, Köln ,Zahnbehandlung,268.80
+B00547,2025-11-03,Bielefeld,Arzneimittel,69.08
+B01493,2024-11-03,KÖLN,Krankenhaus,7022.64
+B00303,24.05.2025, Bielefeld ,Heilmittel,166.97
+B01028,2025-09-11,ESSEN,Krankenhaus,1508.37
+B01560,2024-05-08,Bielefeld,Zahnbehandlung,289.58
+B00396,2024-03-17, Dortmund ,Heilmittel,27.78
+B00134,01.06.2024,Münster,Heilmittel,71.71
+B01920,2024-09-27, Essen ,Heilmittel,171.98
+B01372,2025-08-06,köln,Krankenhaus,1844.93
+B01368,2024-08-14,essen,Heilmittel,163.80
+B01936,13.09.2025, Köln ,Heilmittel,203.59
+B01892,24.12.2024,essen,Heilmittel,71.81
+B01361,2025-12-09, Dortmund ,Heilmittel,95.55
+B00030,06.03.2024,DORTMUND,Krankenhaus,2832.83
+B01058,09.10.2025,Münster,Arzneimittel,68.98
+B00751,16.12.2024,Köln,Arzneimittel,437.27
+B01479,2025-03-14,Köln,Arztbehandlung,113.65
+B01202,2024-05-23,Dortmund,Zahnbehandlung,850.55
+B00347,10.07.2025, Münster ,Zahnbehandlung,890.52
+B01453,2024-03-09, Essen ,Heilmittel,87.13
+B00649,2024-02-16,MÜNSTER,Krankenhaus,7780.22
+B01377,06.01.2024,münster,Heilmittel,123.24
+B00682,29.07.2025, Köln ,Krankenhaus,7038.36
+B00035,2024-02-25, Dortmund ,Zahnbehandlung,436.31
+B01511,22.10.2024,MÜNSTER,Heilmittel,115.87
+B01961,15.10.2024,ESSEN,Krankenhaus,3830.23
+B01342,24.06.2025,essen,Zahnbehandlung,50.93
+B00398,2025-01-17, Köln ,Arzneimittel,308.38
+B01802,2025-07-17, Bielefeld ,Arztbehandlung,124.59
+B01115,2025-09-14,KÖLN,Krankenhaus,3476.21
+B00200,23.03.2024,KÖLN,Zahnbehandlung,93.94
+B00644,07.05.2025,Münster,Arzneimittel,416.04
+B00128,31.10.2024,Bielefeld,Zahnbehandlung,820.40
+B01456,16.10.2025,essen,Zahnbehandlung,53.24
+B01306,17.06.2024, Dortmund ,Arztbehandlung,175.62
+B00909,22.11.2024,essen,Arzneimittel,438.98
+B00115,14.08.2024,münster,Krankenhaus,1563.04
+B00245,20.10.2025,Münster,Arztbehandlung,234.60
+B00860,13.03.2024,DORTMUND,Heilmittel,29.35
+B00170,28.01.2025,DORTMUND,Arztbehandlung,99.71
+B00270,2025-10-20, Essen ,Heilmittel,97.87
+B00363,2025-04-12, Köln ,Arzneimittel,312.82
+B01508,2024-04-01,köln,Zahnbehandlung,684.64
+B01446,02.12.2025,BIELEFELD,Heilmittel,66.68
+B00314,20.04.2024,münster,Arztbehandlung,226.26
+B01461,01.07.2025,Münster,Arzneimittel,183.55
+B01256,17.05.2025,BIELEFELD,Arzneimittel,81.16
+B00060,27.07.2025,KÖLN,Krankenhaus,3700.16
+B00757,2025-12-14,ESSEN,Zahnbehandlung,334.95
+B00079,2025-09-17, Essen ,Arzneimittel,590.52
+B00213,26.05.2024,DORTMUND,Krankenhaus,2287.53
+B01833,2025-11-07,dortmund,Krankenhaus,4328.65
+B01118,13.03.2025,essen,Arzneimittel,432.42
+B01538,02.01.2024,DORTMUND,Zahnbehandlung,531.92
+B01327,08.08.2025,DORTMUND,Krankenhaus,1791.10
+B01536,2024-03-30,dortmund,Arztbehandlung,68.38
+B01855,13.07.2025, Köln ,Arzneimittel,493.96
+B00356,2024-08-12,ESSEN,Arztbehandlung,255.48
+B01005,06.07.2025,Köln,Krankenhaus,6409.41
+B00931,2024-07-04,MÜNSTER,Zahnbehandlung,281.24
+B01295,2025-06-11, Dortmund ,Arzneimittel,513.51
+B01245,2024-07-03,köln,Arzneimittel,522.22
+B00965,05.11.2025,dortmund,Krankenhaus,1645.44
+B01471,31.12.2024,Münster,Arzneimittel,136.13
+B00063,09.02.2024,MÜNSTER,Krankenhaus,3936.84
+B01687,12.08.2024,Münster,Zahnbehandlung,568.57
+B01172,24.07.2025, Münster ,Krankenhaus,1069.45
+B00118,2024-11-19,KÖLN,Krankenhaus,6714.53
+B01281,12.05.2025,Münster,Krankenhaus,4797.47
+B00562,2024-03-20,bielefeld,Zahnbehandlung,152.36
+B00519,2024-07-19,Münster,Heilmittel,243.53
+B01443,12.05.2024,Essen,Arzneimittel,593.86
+B01425,2025-01-03,KÖLN,Krankenhaus,1772.42
+B00090,2025-08-21, Köln ,Zahnbehandlung,368.84
+B00816,07.07.2025, Köln ,Zahnbehandlung,436.46
+B00981,14.02.2025,MÜNSTER,Arztbehandlung,224.78
+B01315,2024-04-23,bielefeld,Zahnbehandlung,888.65
+B00564,2025-12-10,bielefeld,Arztbehandlung,103.63
+B01326,09.06.2024, Dortmund ,Zahnbehandlung,58.37
+B00069,13.07.2024, Dortmund ,Zahnbehandlung,812.57
+B00560,09.08.2025,Köln,Krankenhaus,8580.06
+B01243,27.12.2025, Essen ,Zahnbehandlung,340.17
+B00027,11.05.2024,KÖLN,Heilmittel,196.14
+B01030,10.10.2024,bielefeld,Zahnbehandlung,832.74
+B00520,08.07.2025,dortmund,Zahnbehandlung,50.80
+B00756,15.12.2025, Münster ,Arztbehandlung,353.06
+B01925,2024-02-09, Köln ,Arzneimittel,77.52
+B00673,2025-11-19, Essen ,Krankenhaus,8398.34
+B00636,17.10.2025,Köln,Krankenhaus,3876.58
+B01201,06.03.2024,Bielefeld,Arztbehandlung,250.60
+B01931,29.10.2025,essen,Arztbehandlung,390.66
+B00400,02.07.2025, Dortmund ,Heilmittel,186.10
+B01078,2024-08-23, Essen ,Heilmittel,243.13
+B00740,16.08.2024,bielefeld,Zahnbehandlung,876.23
+B00906,2025-08-17,münster,Arzneimittel,394.96
+B00402,28.12.2024,Essen,Heilmittel,141.08
+B00022,2025-03-21,Essen,Arztbehandlung,66.83
+B01532,30.11.2024,BIELEFELD,Krankenhaus,2113.93
+B00367,18.10.2025, Bielefeld ,Arzneimittel,463.69
+B00767,28.05.2024, Köln ,Krankenhaus,7395.83
+B00784,11.08.2024,MÜNSTER,Zahnbehandlung,303.07
+B00392,20.07.2025,BIELEFELD,Arzneimittel,19.57
+B01147,2024-05-06,KÖLN,Krankenhaus,6987.31
+B01264,2024-02-16, Köln ,Heilmittel,37.60
+B00438,2025-09-19, Köln ,Arztbehandlung,87.38
+B01998,20.10.2025,BIELEFELD,Zahnbehandlung,519.94
+B01492,2025-05-08, Essen ,Arzneimittel,493.57
+B00709,21.09.2024, Essen ,Heilmittel,208.97
+B01373,24.01.2024, Köln ,Arzneimittel,510.12
+B01579,15.08.2024,Dortmund,Zahnbehandlung,882.15
+B00955,01.06.2024,dortmund,Arztbehandlung,49.83
+B01752,2025-11-06,Bielefeld,Zahnbehandlung,700.24
+B00749,27.04.2025,MÜNSTER,Arzneimittel,275.03
+B01774,2024-11-25,Köln,Zahnbehandlung,523.70
+B00052,2025-09-18,köln,Heilmittel,181.81
+B00365,09.03.2025,Dortmund,Heilmittel,36.80
+B00714,2024-08-13,essen,Zahnbehandlung,166.00
+B01336,08.08.2025,Köln,Arzneimittel,427.25
+B01982,2024-06-19,dortmund,Arzneimittel,347.78
+B01143,2024-11-10,MÜNSTER,Arzneimittel,415.95
+B00247,2025-05-12,MÜNSTER,Arzneimittel,211.62
+B01404,18.07.2024,Dortmund,Arzneimittel,181.44
+B00514,02.03.2025,Bielefeld,Arzneimittel,199.86
+B01616,2025-08-28,Münster,Arzneimittel,595.61
+B01424,2024-10-28,BIELEFELD,Arztbehandlung,363.05
+B01004,2025-06-19, Münster ,Zahnbehandlung,479.75
+B00905,15.11.2024,ESSEN,Heilmittel,55.13
+B01972,2025-11-03,BIELEFELD,Arztbehandlung,206.59
+B00896,20.01.2024,ESSEN,Arztbehandlung,349.11
+B01721,24.03.2024, Essen ,Krankenhaus,3046.02
+B00293,12.01.2025,KÖLN,Arztbehandlung,232.76
+B01457,2025-02-10,dortmund,Zahnbehandlung,774.52
+B00569,16.03.2024, Münster ,Arztbehandlung,381.87
+B01708,20.10.2024,ESSEN,Krankenhaus,3780.47
+B01298,26.10.2024, Köln ,Arztbehandlung,83.89
+B01118,13.03.2025,essen,Arzneimittel,432.42
+B00439,2025-03-16,Dortmund,Arztbehandlung,387.14
+B01725,2024-01-11,DORTMUND,Heilmittel,109.50
+B01240,04.11.2025,DORTMUND,Heilmittel,216.20
+B00161,2024-03-11,BIELEFELD,Heilmittel,28.26
+B01087,13.03.2024,Bielefeld,Krankenhaus,7855.14
+B00650,24.03.2025,dortmund,Arztbehandlung,159.07
+B01872,2024-04-27, Dortmund ,Krankenhaus,5817.61
+B01718,02.02.2024,dortmund,Arzneimittel,198.91
+B01930,2024-05-26,bielefeld,Zahnbehandlung,791.99
+B00728,2024-05-23,Bielefeld,Arztbehandlung,347.02
+B00972,2025-02-05, Köln ,Krankenhaus,1506.18
+B01447,2025-04-01,ESSEN,Krankenhaus,8926.90
+B00790,2024-08-15, Dortmund ,Heilmittel,84.46
+B01585,04.03.2025, Münster ,Arzneimittel,410.15
+B00773,27.12.2024,ESSEN,Arztbehandlung,317.38
+B00806,2025-04-19,münster,Zahnbehandlung,563.89
+B01148,2024-01-30,münster,Arzneimittel,405.65
+B00494,14.09.2025,dortmund,Heilmittel,158.23
+B01983,2024-01-21,Essen,Arzneimittel,366.93
+B01557,31.03.2025,Dortmund,Arztbehandlung,262.13
+B01025,02.12.2025,BIELEFELD,Krankenhaus,5107.17
+B00620,2025-04-19,Essen,Arztbehandlung,244.59
+B00670,17.06.2024, Münster ,Krankenhaus,1175.38
+B01954,19.02.2024,bielefeld,Arztbehandlung,209.99
+B01362,2025-11-19, Essen ,Krankenhaus,8191.85
+B01137,14.06.2025, Bielefeld ,Arzneimittel,17.61
+B00901,29.08.2024,dortmund,Arztbehandlung,259.46
+B01860,2025-04-13, Köln ,Arzneimittel,26.50
+B01048,31.10.2025,KÖLN,Krankenhaus,2535.76
+B00281,19.02.2025,KÖLN,Krankenhaus,6303.71
+B00107,2025-03-21,köln,Zahnbehandlung,645.36
+B01835,20.07.2024,Köln,Arzneimittel,597.59
+B00160,21.11.2025, Bielefeld ,Krankenhaus,7784.48
+B00663,2025-04-03, Essen ,Zahnbehandlung,727.10
+B00001,2024-10-08,MÜNSTER,Krankenhaus,1005.09
+B01792,16.05.2025, Bielefeld ,Heilmittel,129.92
+B00974,05.04.2024, Dortmund ,Zahnbehandlung,523.98
+B00338,05.07.2025,köln,Zahnbehandlung,216.17
+B00294,08.03.2024, Essen ,Heilmittel,223.38
+B00301,11.09.2025,Köln,Arzneimittel,398.65
+B01973,16.05.2025,köln,Arztbehandlung,275.49
+B01646,2025-03-28,bielefeld,Heilmittel,146.70
+B00188,2025-03-31,Bielefeld,Arztbehandlung,106.48
+B01880,2025-07-26, Dortmund ,Arztbehandlung,256.93
+B00475,05.04.2024,köln,Krankenhaus,5995.75
+B01605,2024-10-02, Essen ,Arzneimittel,326.49
+B00006,2024-12-10, Dortmund ,Arztbehandlung,83.30
+B00345,10.02.2025,münster,Krankenhaus,8976.81
+B00429,24.07.2024,BIELEFELD,Heilmittel,237.87
+B00970,19.09.2025, Köln ,Arzneimittel,52.03
+B01370,11.10.2024,MÜNSTER,Zahnbehandlung,126.52
+B01262,04.05.2025,MÜNSTER,Zahnbehandlung,98.89
+B01785,2025-09-24,DORTMUND,Krankenhaus,-7713.22
+B01510,2024-01-02, Dortmund ,Arzneimittel,491.67
+B01654,2025-10-21,MÜNSTER,Krankenhaus,7060.26
+B00568,04.02.2024,dortmund,Krankenhaus,7353.40
+B01956,11.08.2025,dortmund,Zahnbehandlung,481.65
+B01213,23.03.2024, Essen ,Krankenhaus,3047.10
+B01748,11.06.2024,Münster,Arztbehandlung,339.00
+B01582,2025-02-02, Bielefeld ,Krankenhaus,2200.13
+B01179,2024-09-07,münster,Arztbehandlung,46.17
+B01960,2024-02-10, Dortmund ,Krankenhaus,5706.81
+B00785,2024-08-28,BIELEFELD,Zahnbehandlung,671.29
+B01569,2024-08-02,DORTMUND,Heilmittel,143.79
+B01321,13.05.2024, Münster ,Krankenhaus,4284.07
+B01203,17.08.2025,Essen,Heilmittel,172.77
+B01070,24.11.2025,Münster,Zahnbehandlung,202.91
+B01633,2025-12-14,Bielefeld,Arzneimittel,363.50
+B00260,2025-04-28, Essen ,Krankenhaus,3152.41
+B00210,24.12.2024,dortmund,Arzneimittel,509.89
+B01970,2025-09-17,Münster,Krankenhaus,4823.67
+B00539,2025-03-12,BIELEFELD,Krankenhaus,3938.38
+B00366,2025-04-28, Bielefeld ,Krankenhaus,8886.33
+B00574,06.02.2025,Münster,Arzneimittel,66.59
+B00444,24.03.2025,Bielefeld,Arztbehandlung,203.56
+B01497,01.03.2025, Bielefeld ,Zahnbehandlung,381.96
+B00211,2025-03-15,köln,Heilmittel,72.02
+B00313,21.02.2024, Essen ,Heilmittel,101.17
+B01214,2024-04-12,Bielefeld,Arztbehandlung,294.02
+B00990,26.11.2025,essen,Arztbehandlung,137.40
+B00415,2025-03-18, Köln ,Heilmittel,236.46
+B01351,2025-10-29, Bielefeld ,Arzneimittel,460.16
+B01314,06.07.2025,münster,Krankenhaus,8100.62
+B01109,2025-07-06,köln,Arzneimittel,230.02
+B01150,2024-01-15,münster,Krankenhaus,7520.61
+B00522,05.03.2025,DORTMUND,Heilmittel,246.12
+B00826,28.06.2025,ESSEN,Arztbehandlung,268.17
+B01571,11.05.2024,dortmund,Heilmittel,102.58
+B01279,2025-02-05,Bielefeld,Heilmittel,210.77
+B00753,31.05.2025,Münster,Heilmittel,217.71
+B00627,2024-03-31, Köln ,Zahnbehandlung,713.13
+B01494,09.11.2024, Bielefeld ,Arztbehandlung,167.67
+B01197,2024-01-29, Bielefeld ,Krankenhaus,2029.69
+B00873,2024-11-03, Köln ,Arzneimittel,161.18
+B01778,08.10.2024,Dortmund,Zahnbehandlung,463.83
+B01867,12.08.2025,münster,Heilmittel,171.56
+B01681,2025-04-26,köln,Arzneimittel,461.60
+B00583,02.05.2025, Dortmund ,Heilmittel,222.78
+B00563,31.03.2024,Essen,Arzneimittel,385.35
+B00395,13.07.2025,Münster,Arztbehandlung,88.47
+B01945,03.05.2024, Bielefeld ,Zahnbehandlung,43.50
+B00029,18.11.2025, Essen ,Arztbehandlung,174.62
+B01288,2024-06-14,Bielefeld,Zahnbehandlung,725.79
+B00707,2024-06-06,essen,Krankenhaus,6924.50
+B00463,21.06.2024, Köln ,Arzneimittel,327.19
+B01810,09.12.2025,ESSEN,Arzneimittel,443.02
+B01146,2024-09-16,dortmund,Zahnbehandlung,133.46
+B01304,2025-01-05,ESSEN,Heilmittel,202.76
+B00718,23.09.2025,Münster,Arzneimittel,118.56
+B00137,10.02.2024,bielefeld,Zahnbehandlung,99.98
+B00321,2025-06-11,bielefeld,Arzneimittel,367.69
+B01218,2025-06-12, Köln ,Krankenhaus,2094.14
+B00960,2025-03-30,ESSEN,Arzneimittel,548.88
+B01280,18.03.2025,essen,Krankenhaus,5969.36
+B00126,2024-03-28, Dortmund ,Heilmittel,238.30
+B00194,2024-06-27,DORTMUND,Arzneimittel,328.73
+B00678,2025-04-08, Münster ,Arztbehandlung,388.93
+B00940,2025-01-23,Essen,Arztbehandlung,163.21
+B01102,12.11.2025,essen,Arztbehandlung,207.31
+B00193,2024-05-31,BIELEFELD,Arzneimittel,203.85
+B01422,11.01.2025,bielefeld,Zahnbehandlung,406.28
+B00409,2024-11-18,MÜNSTER,Arzneimittel,557.97
+B00385,2024-03-15,KÖLN,Heilmittel,158.67
+B01437,2025-01-30,Essen,Zahnbehandlung,85.43
+B00639,2024-07-29, Bielefeld ,Zahnbehandlung,640.63
+B00012,2025-12-19,KÖLN,Arzneimittel,-405.40
+B00138,2025-11-21,Bielefeld,Krankenhaus,1548.88
+B00964,2025-08-31, Bielefeld ,Krankenhaus,6433.83
+B00308,05.05.2024,ESSEN,Arztbehandlung,115.65
+B00368,21.01.2025,DORTMUND,Zahnbehandlung,786.57
+B00853,16.10.2024,essen,Heilmittel,55.45
+B00651,14.02.2025,essen,Arztbehandlung,93.58
+B00021,2024-01-12,köln,Heilmittel,217.98
+B00971,2025-04-27, Dortmund ,Krankenhaus,1866.61
+B01699,2025-10-02,MÜNSTER,Zahnbehandlung,98.51
+B01465,2024-01-05,ESSEN,Zahnbehandlung,75.60
+B01074,17.07.2024,BIELEFELD,Arztbehandlung,76.15
+B00337,21.03.2024,essen,Arztbehandlung,40.77
+B00278,2024-04-15,bielefeld,Heilmittel,87.57
+B01901,2025-11-04,Dortmund,Heilmittel,111.50
+B01746,2024-11-21,ESSEN,Arzneimittel,247.84
+B01980,2024-09-23, Bielefeld ,Zahnbehandlung,399.92
+B01530,28.04.2024,KÖLN,Arzneimittel,538.88
+B01899,09.05.2024,münster,Krankenhaus,1428.22
+B00677,2025-03-04, Bielefeld ,Heilmittel,222.72
+B01918,09.02.2024,bielefeld,Arztbehandlung,239.16
+B00432,2024-07-03,ESSEN,Heilmittel,249.37
+B00948,2025-10-14,DORTMUND,Arztbehandlung,156.12
+B00967,2024-10-06,münster,Zahnbehandlung,613.88
+B00515,2025-05-29,MÜNSTER,Heilmittel,105.75
+B01239,17.06.2024,ESSEN,Heilmittel,91.99
+B01064,2025-07-06,ESSEN,Heilmittel,103.24
+B00761,12.03.2025, Bielefeld ,Arztbehandlung,64.97
+B01464,2025-11-06,essen,Heilmittel,167.43
+B01950,22.02.2025,essen,Arztbehandlung,381.22
+B01258,30.07.2025, Dortmund ,Zahnbehandlung,444.50
+B01994,2024-04-05,essen,Zahnbehandlung,283.38
+B00419,2024-03-30, Essen ,Arztbehandlung,63.34
+B01403,16.03.2024,Dortmund,Krankenhaus,3775.10
+B01072,22.08.2025, Dortmund ,Arzneimittel,53.38
+B00595,2024-08-21, Bielefeld ,Krankenhaus,8774.47
+B00290,23.11.2024,dortmund,Krankenhaus,7446.21
+B00340,2024-08-26, Dortmund ,Heilmittel,71.90
+B01332,11.12.2024,ESSEN,Heilmittel,124.05
+B01155,2025-06-16,essen,Krankenhaus,4620.39
+B00762,09.10.2024, Münster ,Heilmittel,104.10
+B01822,25.05.2024,Essen,Arzneimittel,399.03
+B01260,2025-04-19, Münster ,Heilmittel,98.60
+B00661,2024-10-11,KÖLN,Arztbehandlung,115.33
+B01071,30.08.2024, Münster ,Arztbehandlung,110.42
+B00556,09.11.2025,Köln,Krankenhaus,3863.44
+B01386,2025-02-15, Köln ,Arztbehandlung,343.72
+B01803,29.05.2025,köln,Arzneimittel,98.87
+B01889,2025-07-31,Bielefeld,Krankenhaus,7406.43
+B01475,06.09.2025,ESSEN,Arztbehandlung,384.64
+B00603,30.04.2025,BIELEFELD,Arzneimittel,576.71
+B00892,2025-07-04,münster,Krankenhaus,3521.39
+B00241,2024-12-12,Bielefeld,Arztbehandlung,170.28
+B00608,08.11.2024, Essen ,Heilmittel,205.17
+B00019,2024-04-22, Münster ,Krankenhaus,6997.41
+B00818,17.10.2025, Bielefeld ,Heilmittel,120.04
+B00857,2025-09-12,DORTMUND,Krankenhaus,3804.10
+B01121,10.03.2025,Münster,Arzneimittel,485.35
+B01791,27.02.2025,DORTMUND,Heilmittel,224.19
+B01534,2024-12-06,Köln,Krankenhaus,7323.43
+B00287,2025-01-31,bielefeld,Arzneimittel,304.44
+B00998,01.03.2025, Köln ,Krankenhaus,1925.21
+B01075,2025-12-09,BIELEFELD,Arztbehandlung,72.70
+B01645,2024-01-17,essen,Arztbehandlung,91.28
+B01283,03.03.2025, Dortmund ,Arztbehandlung,359.83
+B00350,16.10.2025,essen,Arzneimittel,370.46
+B01015,2024-05-28, Essen ,Arztbehandlung,394.03
+B00869,2025-06-14,Bielefeld,Arztbehandlung,248.41
+B01814,14.01.2024,essen,Zahnbehandlung,153.40
+B00080,14.12.2025, Essen ,Heilmittel,64.72
+B00233,10.03.2024,essen,Arztbehandlung,81.61
+B01991,2025-07-08, Dortmund ,Krankenhaus,920.88
+B01782,12.03.2024, Dortmund ,Arztbehandlung,266.79
+B00897,2025-12-27, Bielefeld ,Zahnbehandlung,472.43
+B00405,2025-05-02,DORTMUND,Zahnbehandlung,358.14
+B00341,2024-04-12,DORTMUND,Arztbehandlung,294.01
+B00249,2024-06-15,KÖLN,Heilmittel,106.65
+B01533,2025-11-17, Münster ,Arztbehandlung,274.72
+B01065,2024-04-25, Essen ,Arztbehandlung,44.90
+B00332,15.04.2025,köln,Arztbehandlung,383.76
+B00028,13.09.2025,MÜNSTER,Arztbehandlung,222.88
+B01551,2024-07-19,Bielefeld,Arzneimittel,138.70
+B00261,2024-03-22,BIELEFELD,Heilmittel,21.21
+B00770,2025-03-25,münster,Arzneimittel,387.77
+B00159,28.09.2024, Köln ,Arzneimittel,54.15
+B01433,2024-11-08,essen,Heilmittel,220.96
+B00872,21.05.2024,BIELEFELD,Zahnbehandlung,339.42
+B00216,2025-09-24,dortmund,Krankenhaus,2075.76
+B01887,2024-09-24,Bielefeld,Krankenhaus,3571.97
+B00167,17.09.2024,Bielefeld,Arzneimittel,282.08
