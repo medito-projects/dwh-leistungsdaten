@@ -1,0 +1,4 @@
+data/dw.db
+data/abgelehnte_zeilen.csv
+__pycache__/
+.pytest_cache/
