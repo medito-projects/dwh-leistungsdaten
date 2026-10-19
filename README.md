@@ -1,50 +1,54 @@
 # Mini-Data-Warehouse: Leistungsausgaben
 
-Kleines Lernprojekt zu Data-Warehouse-Grundlagen. Es zeigt in einem überschaubaren Beispiel, wie Rohdaten bereinigt, in ein Sternschema geladen, geprüft und ausgewertet werden.
 
-Die Daten sind **erfunden** (Zufallsdaten, kein Bezug zu echten Versicherten oder einer Krankenkasse). Ich habe das Projekt gebaut, um ETL, Sternschema und Datenqualitätsprüfungen praktisch auszuprobieren.
+In diesem Projekt probiere ich aus, wie man Daten mit Python aufbereitet, in einer Datenbank speichert und mit SQL auswertet.
 
-## Was passiert hier
+Als Beispiel verwende ich selbst erzeugte Daten zu Krankenkassenleistungen. Die Daten sind nicht echt und enthalten absichtlich einige Fehler, damit ich auch die Datenbereinigung testen kann.
 
-1. `generate_data.py` erzeugt eine CSV mit Leistungsausgaben (ca. 2000 Zeilen). Die Daten sind absichtlich unsauber: doppelte Belege, fehlende oder negative Beträge, zwei Datumsformate, uneinheitliche Schreibweisen bei Regionen.
-2. `etl.py` macht den ETL-Ablauf:
-   - **Extract:** CSV einlesen
-   - **Transform:** Daten bereinigen und vereinheitlichen, fehlerhafte Zeilen mit Grund aussortieren
-   - **Load:** Dimensionen und Faktentabelle in einer SQLite-Datenbank befüllen
-3. `checks.py` prüft die Datenqualität im Warehouse, zum Beispiel ob die Summe im Warehouse zur bereinigten Quelle passt, ob es doppelte Belege gibt und ob jede Zeile der Faktentabelle zu einer Dimension passt.
-4. `report.py` führt die Abfragen aus `sql/berichte.sql` aus.
+## Was macht das Projekt?
 
-## Das Sternschema
+- `generate_data.py` erstellt eine CSV-Datei mit Beispieldaten.
+- `etl.py` liest die Daten ein, entfernt fehlerhafte Einträge und speichert die übrigen Daten in SQLite.
+- `checks.py` prüft, ob die Daten richtig übernommen wurden.
+- `report.py` führt verschiedene SQL-Abfragen aus und zeigt die Ergebnisse an.
 
-In der Mitte liegt die Faktentabelle `fact_leistung` mit dem Betrag. Drumherum liegen drei Dimensionen:
+Die Datenbank besteht aus einer Faktentabelle und drei Dimensionstabellen für Zeit, Region und Leistungsart.
 
-```
-dim_zeit ----\
-dim_region ---- fact_leistung (betrag_eur)
-dim_leistungsart --/
-```
+## Verwendete Technologien
 
-Damit lassen sich Fragen beantworten wie: Wie hoch waren die Kosten pro Leistungsart und Quartal? Das Schema steht in `sql/schema.sql`.
+Python, SQL, SQLite und pytest
 
-## Ausführen
+## Projekt starten
 
-Benötigt wird nur Python 3, ohne zusätzliche Pakete. Für die Tests wird pytest gebraucht.
+Python 3 wird benötigt. Für die Tests muss pytest installiert sein.
 
-```
+Die Befehle im Projektordner nacheinander ausführen:
+
+```bash
 python generate_data.py
 python etl.py
 python checks.py
 python report.py
-python -m pytest tests
 ```
 
-## Ergebnis
+Tests ausführen:
 
-Von 2020 Rohzeilen werden 1980 geladen. 40 Zeilen werden mit Begründung in `data/abgelehnte_zeilen.csv` abgelegt: 20 doppelte Belege, 15 fehlende Beträge, 5 negative Beträge.
+```bash
+python -m pytest tests -v
+```
+
+## Ergebnisse
+
+Mit den SQL-Abfragen kann ich zum Beispiel die Kosten nach Leistungsart, Region und Zeitraum anzeigen lassen.
+
+## Was noch fehlt
+
+Aktuell läuft alles über das Terminal. Später würde ich gerne ein Dashboard ergänzen mit Power BI.
+
 
 ## Was noch fehlen würde
 
-- Echte Quellsysteme statt einer CSV
-- Eine Dimension für Versicherte (mit Pseudonymen)
+- Echte Quellsysteme
+- Eine Dimension für Versicherte (mit username oder sowas)
 - Schrittweises Laden neuer Daten statt jedes Mal alles neu aufzubauen
-- Ein Dashboard (zum Beispiel Power BI oder SAP Analytics Cloud) auf den Abfragen
+- Ein Dashboard ( Power BI oder SAP Analytics Cloud) auf den Abfragen
